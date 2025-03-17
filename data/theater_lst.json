@@ -1,0 +1,50 @@
+ [
+    {
+        "id": "R001",
+        "name": "Cinestar Sinh Viên",
+        "address": "Dĩ An, Bình Dương",
+        "contact": "0274-123-4567",
+        "number_of_rooms": 5,
+        "status": "Hoạt động"
+    },
+    {
+        "id": "R002",
+        "name": "Galaxy Linh Trung Thủ Đức",
+        "address": "Co.opXtra Thủ Đức, Thủ Đức, TP.HCM",
+        "contact": "028-9876-5432",
+        "number_of_rooms": 7,
+        "status": "Tạm dừng"
+    },
+    {
+        "id": "R003",
+        "name": "CGV Vincom Thủ Đức",
+        "address": "Vincom Thủ Đức, TP.HCM",
+        "contact": "028-2222-3333",
+        "number_of_rooms": 7,
+        "status": "Hoạt động"
+    },
+    {
+        "id": "R004",
+        "name": "Lotte Cinema Thủ Đức",
+        "address": "Tầng 3, Gigamall, 242 Phạm Văn Đồng, TP.HCM",
+        "contact": "028-3841-2222",
+        "number_of_rooms": 6,
+        "status": "Đóng cửa"
+    },
+    {
+        "id": "R005",
+        "name": "BHD Star Vincom Thủ Đức",
+        "address": "Vincom Thủ Đức, TP.HCM",
+        "contact": "028-3775-5678",
+        "number_of_rooms": 5,
+        "status": "Hoạt động"
+    },
+    {
+        "id": "R006",
+        "name": "Mega GS Thủ Đức",
+        "address": "234 Đặng Văn Bi, Thủ Đức, TP.HCM",
+        "contact": "028-3654-7890",
+        "number_of_rooms": 4,
+        "status": "Tạm dừng"
+    }
+]

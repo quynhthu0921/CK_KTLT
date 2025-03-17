@@ -1,0 +1,5500 @@
+[{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584c7"
+  },
+  "showtime_id": "ST001",
+  "cinema_id": "R002",
+  "movie_id": "MV002",
+  "room_id": 4,
+  "date": "2025-04-04",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584c8"
+  },
+  "showtime_id": "ST002",
+  "cinema_id": "R001",
+  "movie_id": "MV002",
+  "room_id": 3,
+  "date": "2025-04-07",
+  "time": "18:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584c9"
+  },
+  "showtime_id": "ST003",
+  "cinema_id": "R002",
+  "movie_id": "MV004",
+  "room_id": 4,
+  "date": "2025-04-01",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584ca"
+  },
+  "showtime_id": "ST004",
+  "cinema_id": "R002",
+  "movie_id": "MV008",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "18:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584cb"
+  },
+  "showtime_id": "ST005",
+  "cinema_id": "R005",
+  "movie_id": "MV002",
+  "room_id": 3,
+  "date": "2025-04-07",
+  "time": "12:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584cc"
+  },
+  "showtime_id": "ST006",
+  "cinema_id": "R002",
+  "movie_id": "MV004",
+  "room_id": 6,
+  "date": "2025-04-04",
+  "time": "10:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584cd"
+  },
+  "showtime_id": "ST007",
+  "cinema_id": "R003",
+  "movie_id": "MV004",
+  "room_id": 1,
+  "date": "2025-04-03",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584ce"
+  },
+  "showtime_id": "ST008",
+  "cinema_id": "R007",
+  "movie_id": "MV008",
+  "room_id": 4,
+  "date": "2025-04-02",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584cf"
+  },
+  "showtime_id": "ST009",
+  "cinema_id": "R002",
+  "movie_id": "MV003",
+  "room_id": 4,
+  "date": "2025-04-03",
+  "time": "17:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584d0"
+  },
+  "showtime_id": "ST010",
+  "cinema_id": "R005",
+  "movie_id": "MV002",
+  "room_id": 5,
+  "date": "2025-04-04",
+  "time": "15:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584d1"
+  },
+  "showtime_id": "ST011",
+  "cinema_id": "R001",
+  "movie_id": "MV004",
+  "room_id": 3,
+  "date": "2025-04-07",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584d2"
+  },
+  "showtime_id": "ST012",
+  "cinema_id": "R001",
+  "movie_id": "MV005",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584d3"
+  },
+  "showtime_id": "ST013",
+  "cinema_id": "R005",
+  "movie_id": "MV002",
+  "room_id": 2,
+  "date": "2025-04-06",
+  "time": "11:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584d4"
+  },
+  "showtime_id": "ST014",
+  "cinema_id": "R002",
+  "movie_id": "MV004",
+  "room_id": 5,
+  "date": "2025-04-05",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584d5"
+  },
+  "showtime_id": "ST015",
+  "cinema_id": "R007",
+  "movie_id": "MV006",
+  "room_id": 1,
+  "date": "2025-04-07",
+  "time": "19:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584d6"
+  },
+  "showtime_id": "ST016",
+  "cinema_id": "R007",
+  "movie_id": "MV005",
+  "room_id": 1,
+  "date": "2025-04-03",
+  "time": "10:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584d7"
+  },
+  "showtime_id": "ST017",
+  "cinema_id": "R006",
+  "movie_id": "MV004",
+  "room_id": 1,
+  "date": "2025-04-03",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584d8"
+  },
+  "showtime_id": "ST018",
+  "cinema_id": "R002",
+  "movie_id": "MV001",
+  "room_id": 3,
+  "date": "2025-04-01",
+  "time": "20:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584d9"
+  },
+  "showtime_id": "ST019",
+  "cinema_id": "R005",
+  "movie_id": "MV002",
+  "room_id": 2,
+  "date": "2025-04-03",
+  "time": "22:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584da"
+  },
+  "showtime_id": "ST020",
+  "cinema_id": "R007",
+  "movie_id": "MV004",
+  "room_id": 4,
+  "date": "2025-04-06",
+  "time": "14:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584db"
+  },
+  "showtime_id": "ST021",
+  "cinema_id": "R001",
+  "movie_id": "MV003",
+  "room_id": 2,
+  "date": "2025-04-02",
+  "time": "11:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584dc"
+  },
+  "showtime_id": "ST022",
+  "cinema_id": "R003",
+  "movie_id": "MV003",
+  "room_id": 1,
+  "date": "2025-04-03",
+  "time": "11:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584dd"
+  },
+  "showtime_id": "ST023",
+  "cinema_id": "R006",
+  "movie_id": "MV007",
+  "room_id": 3,
+  "date": "2025-04-05",
+  "time": "16:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584de"
+  },
+  "showtime_id": "ST024",
+  "cinema_id": "R003",
+  "movie_id": "MV004",
+  "room_id": 5,
+  "date": "2025-04-03",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584df"
+  },
+  "showtime_id": "ST025",
+  "cinema_id": "R007",
+  "movie_id": "MV003",
+  "room_id": 4,
+  "date": "2025-04-02",
+  "time": "19:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584e0"
+  },
+  "showtime_id": "ST026",
+  "cinema_id": "R005",
+  "movie_id": "MV002",
+  "room_id": 5,
+  "date": "2025-04-07",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584e1"
+  },
+  "showtime_id": "ST027",
+  "cinema_id": "R002",
+  "movie_id": "MV007",
+  "room_id": 7,
+  "date": "2025-04-03",
+  "time": "16:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584e2"
+  },
+  "showtime_id": "ST028",
+  "cinema_id": "R002",
+  "movie_id": "MV005",
+  "room_id": 1,
+  "date": "2025-04-05",
+  "time": "22:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584e3"
+  },
+  "showtime_id": "ST029",
+  "cinema_id": "R004",
+  "movie_id": "MV003",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "19:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584e4"
+  },
+  "showtime_id": "ST030",
+  "cinema_id": "R007",
+  "movie_id": "MV006",
+  "room_id": 1,
+  "date": "2025-04-04",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584e5"
+  },
+  "showtime_id": "ST031",
+  "cinema_id": "R007",
+  "movie_id": "MV007",
+  "room_id": 2,
+  "date": "2025-04-04",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584e6"
+  },
+  "showtime_id": "ST032",
+  "cinema_id": "R006",
+  "movie_id": "MV007",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584e7"
+  },
+  "showtime_id": "ST033",
+  "cinema_id": "R005",
+  "movie_id": "MV001",
+  "room_id": 3,
+  "date": "2025-04-06",
+  "time": "22:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584e8"
+  },
+  "showtime_id": "ST034",
+  "cinema_id": "R002",
+  "movie_id": "MV008",
+  "room_id": 1,
+  "date": "2025-04-06",
+  "time": "19:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584e9"
+  },
+  "showtime_id": "ST035",
+  "cinema_id": "R001",
+  "movie_id": "MV001",
+  "room_id": 3,
+  "date": "2025-04-01",
+  "time": "22:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584ea"
+  },
+  "showtime_id": "ST036",
+  "cinema_id": "R002",
+  "movie_id": "MV006",
+  "room_id": 2,
+  "date": "2025-04-03",
+  "time": "13:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584eb"
+  },
+  "showtime_id": "ST037",
+  "cinema_id": "R003",
+  "movie_id": "MV004",
+  "room_id": 3,
+  "date": "2025-04-05",
+  "time": "19:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584ec"
+  },
+  "showtime_id": "ST038",
+  "cinema_id": "R003",
+  "movie_id": "MV006",
+  "room_id": 3,
+  "date": "2025-04-05",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584ed"
+  },
+  "showtime_id": "ST039",
+  "cinema_id": "R006",
+  "movie_id": "MV003",
+  "room_id": 3,
+  "date": "2025-04-06",
+  "time": "18:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584ee"
+  },
+  "showtime_id": "ST040",
+  "cinema_id": "R001",
+  "movie_id": "MV008",
+  "room_id": 5,
+  "date": "2025-04-06",
+  "time": "11:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584ef"
+  },
+  "showtime_id": "ST041",
+  "cinema_id": "R006",
+  "movie_id": "MV002",
+  "room_id": 2,
+  "date": "2025-04-03",
+  "time": "19:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584f0"
+  },
+  "showtime_id": "ST042",
+  "cinema_id": "R005",
+  "movie_id": "MV003",
+  "room_id": 3,
+  "date": "2025-04-01",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584f1"
+  },
+  "showtime_id": "ST043",
+  "cinema_id": "R007",
+  "movie_id": "MV005",
+  "room_id": 1,
+  "date": "2025-04-07",
+  "time": "15:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584f2"
+  },
+  "showtime_id": "ST044",
+  "cinema_id": "R001",
+  "movie_id": "MV005",
+  "room_id": 1,
+  "date": "2025-04-07",
+  "time": "15:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584f3"
+  },
+  "showtime_id": "ST045",
+  "cinema_id": "R001",
+  "movie_id": "MV006",
+  "room_id": 4,
+  "date": "2025-04-05",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584f4"
+  },
+  "showtime_id": "ST046",
+  "cinema_id": "R007",
+  "movie_id": "MV002",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584f5"
+  },
+  "showtime_id": "ST047",
+  "cinema_id": "R004",
+  "movie_id": "MV007",
+  "room_id": 3,
+  "date": "2025-04-05",
+  "time": "12:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584f6"
+  },
+  "showtime_id": "ST048",
+  "cinema_id": "R007",
+  "movie_id": "MV003",
+  "room_id": 4,
+  "date": "2025-04-04",
+  "time": "22:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584f7"
+  },
+  "showtime_id": "ST049",
+  "cinema_id": "R006",
+  "movie_id": "MV001",
+  "room_id": 4,
+  "date": "2025-04-04",
+  "time": "18:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584f8"
+  },
+  "showtime_id": "ST050",
+  "cinema_id": "R007",
+  "movie_id": "MV003",
+  "room_id": 3,
+  "date": "2025-04-03",
+  "time": "15:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584f9"
+  },
+  "showtime_id": "ST051",
+  "cinema_id": "R004",
+  "movie_id": "MV001",
+  "room_id": 1,
+  "date": "2025-04-06",
+  "time": "10:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584fa"
+  },
+  "showtime_id": "ST052",
+  "cinema_id": "R003",
+  "movie_id": "MV002",
+  "room_id": 7,
+  "date": "2025-04-05",
+  "time": "19:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584fb"
+  },
+  "showtime_id": "ST053",
+  "cinema_id": "R003",
+  "movie_id": "MV008",
+  "room_id": 6,
+  "date": "2025-04-04",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584fc"
+  },
+  "showtime_id": "ST054",
+  "cinema_id": "R003",
+  "movie_id": "MV003",
+  "room_id": 1,
+  "date": "2025-04-07",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584fd"
+  },
+  "showtime_id": "ST055",
+  "cinema_id": "R003",
+  "movie_id": "MV001",
+  "room_id": 5,
+  "date": "2025-04-05",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584fe"
+  },
+  "showtime_id": "ST056",
+  "cinema_id": "R001",
+  "movie_id": "MV003",
+  "room_id": 5,
+  "date": "2025-04-06",
+  "time": "17:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57584ff"
+  },
+  "showtime_id": "ST057",
+  "cinema_id": "R004",
+  "movie_id": "MV004",
+  "room_id": 3,
+  "date": "2025-04-04",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758500"
+  },
+  "showtime_id": "ST058",
+  "cinema_id": "R006",
+  "movie_id": "MV007",
+  "room_id": 4,
+  "date": "2025-04-04",
+  "time": "20:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758501"
+  },
+  "showtime_id": "ST059",
+  "cinema_id": "R004",
+  "movie_id": "MV004",
+  "room_id": 2,
+  "date": "2025-04-07",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758502"
+  },
+  "showtime_id": "ST060",
+  "cinema_id": "R007",
+  "movie_id": "MV003",
+  "room_id": 2,
+  "date": "2025-04-07",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758503"
+  },
+  "showtime_id": "ST061",
+  "cinema_id": "R003",
+  "movie_id": "MV003",
+  "room_id": 3,
+  "date": "2025-04-03",
+  "time": "16:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758504"
+  },
+  "showtime_id": "ST062",
+  "cinema_id": "R007",
+  "movie_id": "MV004",
+  "room_id": 2,
+  "date": "2025-04-05",
+  "time": "18:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758505"
+  },
+  "showtime_id": "ST063",
+  "cinema_id": "R004",
+  "movie_id": "MV002",
+  "room_id": 1,
+  "date": "2025-04-05",
+  "time": "16:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758506"
+  },
+  "showtime_id": "ST064",
+  "cinema_id": "R005",
+  "movie_id": "MV005",
+  "room_id": 2,
+  "date": "2025-04-07",
+  "time": "19:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758507"
+  },
+  "showtime_id": "ST065",
+  "cinema_id": "R004",
+  "movie_id": "MV003",
+  "room_id": 3,
+  "date": "2025-04-01",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758508"
+  },
+  "showtime_id": "ST066",
+  "cinema_id": "R005",
+  "movie_id": "MV007",
+  "room_id": 1,
+  "date": "2025-04-07",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758509"
+  },
+  "showtime_id": "ST067",
+  "cinema_id": "R003",
+  "movie_id": "MV007",
+  "room_id": 4,
+  "date": "2025-04-06",
+  "time": "17:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575850a"
+  },
+  "showtime_id": "ST068",
+  "cinema_id": "R005",
+  "movie_id": "MV005",
+  "room_id": 1,
+  "date": "2025-04-07",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575850b"
+  },
+  "showtime_id": "ST069",
+  "cinema_id": "R005",
+  "movie_id": "MV007",
+  "room_id": 1,
+  "date": "2025-04-05",
+  "time": "10:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575850c"
+  },
+  "showtime_id": "ST070",
+  "cinema_id": "R007",
+  "movie_id": "MV007",
+  "room_id": 4,
+  "date": "2025-04-03",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575850d"
+  },
+  "showtime_id": "ST071",
+  "cinema_id": "R002",
+  "movie_id": "MV006",
+  "room_id": 2,
+  "date": "2025-04-07",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575850e"
+  },
+  "showtime_id": "ST072",
+  "cinema_id": "R004",
+  "movie_id": "MV004",
+  "room_id": 5,
+  "date": "2025-04-02",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575850f"
+  },
+  "showtime_id": "ST073",
+  "cinema_id": "R005",
+  "movie_id": "MV005",
+  "room_id": 1,
+  "date": "2025-04-04",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758510"
+  },
+  "showtime_id": "ST074",
+  "cinema_id": "R004",
+  "movie_id": "MV004",
+  "room_id": 5,
+  "date": "2025-04-01",
+  "time": "12:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758511"
+  },
+  "showtime_id": "ST075",
+  "cinema_id": "R005",
+  "movie_id": "MV007",
+  "room_id": 2,
+  "date": "2025-04-07",
+  "time": "17:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758512"
+  },
+  "showtime_id": "ST076",
+  "cinema_id": "R002",
+  "movie_id": "MV004",
+  "room_id": 6,
+  "date": "2025-04-04",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758513"
+  },
+  "showtime_id": "ST077",
+  "cinema_id": "R004",
+  "movie_id": "MV004",
+  "room_id": 2,
+  "date": "2025-04-01",
+  "time": "14:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758514"
+  },
+  "showtime_id": "ST078",
+  "cinema_id": "R007",
+  "movie_id": "MV001",
+  "room_id": 1,
+  "date": "2025-04-04",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758515"
+  },
+  "showtime_id": "ST079",
+  "cinema_id": "R003",
+  "movie_id": "MV001",
+  "room_id": 1,
+  "date": "2025-04-03",
+  "time": "18:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758516"
+  },
+  "showtime_id": "ST080",
+  "cinema_id": "R006",
+  "movie_id": "MV001",
+  "room_id": 4,
+  "date": "2025-04-03",
+  "time": "10:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758517"
+  },
+  "showtime_id": "ST081",
+  "cinema_id": "R003",
+  "movie_id": "MV003",
+  "room_id": 3,
+  "date": "2025-04-04",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758518"
+  },
+  "showtime_id": "ST082",
+  "cinema_id": "R004",
+  "movie_id": "MV006",
+  "room_id": 1,
+  "date": "2025-04-05",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758519"
+  },
+  "showtime_id": "ST083",
+  "cinema_id": "R003",
+  "movie_id": "MV004",
+  "room_id": 1,
+  "date": "2025-04-04",
+  "time": "19:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575851a"
+  },
+  "showtime_id": "ST084",
+  "cinema_id": "R004",
+  "movie_id": "MV006",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575851b"
+  },
+  "showtime_id": "ST085",
+  "cinema_id": "R007",
+  "movie_id": "MV006",
+  "room_id": 1,
+  "date": "2025-04-06",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575851c"
+  },
+  "showtime_id": "ST086",
+  "cinema_id": "R001",
+  "movie_id": "MV007",
+  "room_id": 2,
+  "date": "2025-04-04",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575851d"
+  },
+  "showtime_id": "ST087",
+  "cinema_id": "R001",
+  "movie_id": "MV005",
+  "room_id": 2,
+  "date": "2025-04-07",
+  "time": "10:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575851e"
+  },
+  "showtime_id": "ST088",
+  "cinema_id": "R005",
+  "movie_id": "MV005",
+  "room_id": 5,
+  "date": "2025-04-05",
+  "time": "19:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575851f"
+  },
+  "showtime_id": "ST089",
+  "cinema_id": "R007",
+  "movie_id": "MV008",
+  "room_id": 4,
+  "date": "2025-04-06",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758520"
+  },
+  "showtime_id": "ST090",
+  "cinema_id": "R006",
+  "movie_id": "MV001",
+  "room_id": 3,
+  "date": "2025-04-03",
+  "time": "15:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758521"
+  },
+  "showtime_id": "ST091",
+  "cinema_id": "R001",
+  "movie_id": "MV006",
+  "room_id": 4,
+  "date": "2025-04-03",
+  "time": "17:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758522"
+  },
+  "showtime_id": "ST092",
+  "cinema_id": "R002",
+  "movie_id": "MV007",
+  "room_id": 1,
+  "date": "2025-04-02",
+  "time": "14:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758523"
+  },
+  "showtime_id": "ST093",
+  "cinema_id": "R006",
+  "movie_id": "MV003",
+  "room_id": 1,
+  "date": "2025-04-05",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758524"
+  },
+  "showtime_id": "ST094",
+  "cinema_id": "R004",
+  "movie_id": "MV008",
+  "room_id": 5,
+  "date": "2025-04-02",
+  "time": "13:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758525"
+  },
+  "showtime_id": "ST095",
+  "cinema_id": "R006",
+  "movie_id": "MV003",
+  "room_id": 4,
+  "date": "2025-04-07",
+  "time": "10:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758526"
+  },
+  "showtime_id": "ST096",
+  "cinema_id": "R001",
+  "movie_id": "MV007",
+  "room_id": 3,
+  "date": "2025-04-04",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758527"
+  },
+  "showtime_id": "ST097",
+  "cinema_id": "R001",
+  "movie_id": "MV004",
+  "room_id": 4,
+  "date": "2025-04-03",
+  "time": "19:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758528"
+  },
+  "showtime_id": "ST098",
+  "cinema_id": "R005",
+  "movie_id": "MV005",
+  "room_id": 5,
+  "date": "2025-04-07",
+  "time": "10:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758529"
+  },
+  "showtime_id": "ST099",
+  "cinema_id": "R004",
+  "movie_id": "MV002",
+  "room_id": 6,
+  "date": "2025-04-07",
+  "time": "22:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575852a"
+  },
+  "showtime_id": "ST100",
+  "cinema_id": "R006",
+  "movie_id": "MV008",
+  "room_id": 1,
+  "date": "2025-04-04",
+  "time": "10:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575852b"
+  },
+  "showtime_id": "ST101",
+  "cinema_id": "R003",
+  "movie_id": "MV004",
+  "room_id": 2,
+  "date": "2025-04-03",
+  "time": "19:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575852c"
+  },
+  "showtime_id": "ST102",
+  "cinema_id": "R004",
+  "movie_id": "MV003",
+  "room_id": 5,
+  "date": "2025-04-02",
+  "time": "16:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575852d"
+  },
+  "showtime_id": "ST103",
+  "cinema_id": "R001",
+  "movie_id": "MV004",
+  "room_id": 5,
+  "date": "2025-04-06",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575852e"
+  },
+  "showtime_id": "ST104",
+  "cinema_id": "R006",
+  "movie_id": "MV005",
+  "room_id": 1,
+  "date": "2025-04-05",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575852f"
+  },
+  "showtime_id": "ST105",
+  "cinema_id": "R003",
+  "movie_id": "MV001",
+  "room_id": 2,
+  "date": "2025-04-03",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758530"
+  },
+  "showtime_id": "ST106",
+  "cinema_id": "R004",
+  "movie_id": "MV007",
+  "room_id": 1,
+  "date": "2025-04-01",
+  "time": "20:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758531"
+  },
+  "showtime_id": "ST107",
+  "cinema_id": "R005",
+  "movie_id": "MV006",
+  "room_id": 5,
+  "date": "2025-04-07",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758532"
+  },
+  "showtime_id": "ST108",
+  "cinema_id": "R002",
+  "movie_id": "MV002",
+  "room_id": 3,
+  "date": "2025-04-01",
+  "time": "16:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758533"
+  },
+  "showtime_id": "ST109",
+  "cinema_id": "R002",
+  "movie_id": "MV002",
+  "room_id": 7,
+  "date": "2025-04-01",
+  "time": "22:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758534"
+  },
+  "showtime_id": "ST110",
+  "cinema_id": "R006",
+  "movie_id": "MV004",
+  "room_id": 3,
+  "date": "2025-04-07",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758535"
+  },
+  "showtime_id": "ST111",
+  "cinema_id": "R007",
+  "movie_id": "MV002",
+  "room_id": 1,
+  "date": "2025-04-05",
+  "time": "10:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758536"
+  },
+  "showtime_id": "ST112",
+  "cinema_id": "R005",
+  "movie_id": "MV003",
+  "room_id": 1,
+  "date": "2025-04-02",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758537"
+  },
+  "showtime_id": "ST113",
+  "cinema_id": "R001",
+  "movie_id": "MV004",
+  "room_id": 4,
+  "date": "2025-04-04",
+  "time": "12:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758538"
+  },
+  "showtime_id": "ST114",
+  "cinema_id": "R004",
+  "movie_id": "MV004",
+  "room_id": 1,
+  "date": "2025-04-02",
+  "time": "17:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758539"
+  },
+  "showtime_id": "ST115",
+  "cinema_id": "R005",
+  "movie_id": "MV003",
+  "room_id": 3,
+  "date": "2025-04-03",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575853a"
+  },
+  "showtime_id": "ST116",
+  "cinema_id": "R003",
+  "movie_id": "MV003",
+  "room_id": 1,
+  "date": "2025-04-05",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575853b"
+  },
+  "showtime_id": "ST117",
+  "cinema_id": "R001",
+  "movie_id": "MV005",
+  "room_id": 5,
+  "date": "2025-04-07",
+  "time": "20:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575853c"
+  },
+  "showtime_id": "ST118",
+  "cinema_id": "R001",
+  "movie_id": "MV007",
+  "room_id": 5,
+  "date": "2025-04-04",
+  "time": "16:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575853d"
+  },
+  "showtime_id": "ST119",
+  "cinema_id": "R007",
+  "movie_id": "MV003",
+  "room_id": 3,
+  "date": "2025-04-05",
+  "time": "19:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575853e"
+  },
+  "showtime_id": "ST120",
+  "cinema_id": "R005",
+  "movie_id": "MV005",
+  "room_id": 1,
+  "date": "2025-04-03",
+  "time": "18:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575853f"
+  },
+  "showtime_id": "ST121",
+  "cinema_id": "R001",
+  "movie_id": "MV005",
+  "room_id": 3,
+  "date": "2025-04-03",
+  "time": "22:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758540"
+  },
+  "showtime_id": "ST122",
+  "cinema_id": "R007",
+  "movie_id": "MV004",
+  "room_id": 2,
+  "date": "2025-04-06",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758541"
+  },
+  "showtime_id": "ST123",
+  "cinema_id": "R002",
+  "movie_id": "MV003",
+  "room_id": 3,
+  "date": "2025-04-03",
+  "time": "11:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758542"
+  },
+  "showtime_id": "ST124",
+  "cinema_id": "R001",
+  "movie_id": "MV008",
+  "room_id": 1,
+  "date": "2025-04-07",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758543"
+  },
+  "showtime_id": "ST125",
+  "cinema_id": "R002",
+  "movie_id": "MV003",
+  "room_id": 2,
+  "date": "2025-04-01",
+  "time": "11:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758544"
+  },
+  "showtime_id": "ST126",
+  "cinema_id": "R005",
+  "movie_id": "MV004",
+  "room_id": 5,
+  "date": "2025-04-05",
+  "time": "22:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758545"
+  },
+  "showtime_id": "ST127",
+  "cinema_id": "R003",
+  "movie_id": "MV003",
+  "room_id": 7,
+  "date": "2025-04-01",
+  "time": "11:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758546"
+  },
+  "showtime_id": "ST128",
+  "cinema_id": "R005",
+  "movie_id": "MV001",
+  "room_id": 5,
+  "date": "2025-04-03",
+  "time": "19:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758547"
+  },
+  "showtime_id": "ST129",
+  "cinema_id": "R002",
+  "movie_id": "MV008",
+  "room_id": 6,
+  "date": "2025-04-06",
+  "time": "11:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758548"
+  },
+  "showtime_id": "ST130",
+  "cinema_id": "R005",
+  "movie_id": "MV001",
+  "room_id": 1,
+  "date": "2025-04-01",
+  "time": "14:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758549"
+  },
+  "showtime_id": "ST131",
+  "cinema_id": "R006",
+  "movie_id": "MV004",
+  "room_id": 4,
+  "date": "2025-04-03",
+  "time": "18:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575854a"
+  },
+  "showtime_id": "ST132",
+  "cinema_id": "R005",
+  "movie_id": "MV008",
+  "room_id": 4,
+  "date": "2025-04-06",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575854b"
+  },
+  "showtime_id": "ST133",
+  "cinema_id": "R002",
+  "movie_id": "MV001",
+  "room_id": 2,
+  "date": "2025-04-03",
+  "time": "16:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575854c"
+  },
+  "showtime_id": "ST134",
+  "cinema_id": "R005",
+  "movie_id": "MV003",
+  "room_id": 2,
+  "date": "2025-04-06",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575854d"
+  },
+  "showtime_id": "ST135",
+  "cinema_id": "R003",
+  "movie_id": "MV001",
+  "room_id": 3,
+  "date": "2025-04-06",
+  "time": "19:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575854e"
+  },
+  "showtime_id": "ST136",
+  "cinema_id": "R005",
+  "movie_id": "MV003",
+  "room_id": 3,
+  "date": "2025-04-03",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575854f"
+  },
+  "showtime_id": "ST137",
+  "cinema_id": "R005",
+  "movie_id": "MV007",
+  "room_id": 4,
+  "date": "2025-04-04",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758550"
+  },
+  "showtime_id": "ST138",
+  "cinema_id": "R005",
+  "movie_id": "MV006",
+  "room_id": 2,
+  "date": "2025-04-02",
+  "time": "18:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758551"
+  },
+  "showtime_id": "ST139",
+  "cinema_id": "R004",
+  "movie_id": "MV002",
+  "room_id": 5,
+  "date": "2025-04-04",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758552"
+  },
+  "showtime_id": "ST140",
+  "cinema_id": "R007",
+  "movie_id": "MV001",
+  "room_id": 3,
+  "date": "2025-04-07",
+  "time": "18:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758553"
+  },
+  "showtime_id": "ST141",
+  "cinema_id": "R005",
+  "movie_id": "MV003",
+  "room_id": 5,
+  "date": "2025-04-02",
+  "time": "19:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758554"
+  },
+  "showtime_id": "ST142",
+  "cinema_id": "R004",
+  "movie_id": "MV008",
+  "room_id": 4,
+  "date": "2025-04-03",
+  "time": "19:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758555"
+  },
+  "showtime_id": "ST143",
+  "cinema_id": "R003",
+  "movie_id": "MV003",
+  "room_id": 6,
+  "date": "2025-04-06",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758556"
+  },
+  "showtime_id": "ST144",
+  "cinema_id": "R005",
+  "movie_id": "MV002",
+  "room_id": 1,
+  "date": "2025-04-04",
+  "time": "18:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758557"
+  },
+  "showtime_id": "ST145",
+  "cinema_id": "R001",
+  "movie_id": "MV005",
+  "room_id": 4,
+  "date": "2025-04-02",
+  "time": "20:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758558"
+  },
+  "showtime_id": "ST146",
+  "cinema_id": "R002",
+  "movie_id": "MV006",
+  "room_id": 7,
+  "date": "2025-04-01",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758559"
+  },
+  "showtime_id": "ST147",
+  "cinema_id": "R005",
+  "movie_id": "MV008",
+  "room_id": 5,
+  "date": "2025-04-04",
+  "time": "10:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575855a"
+  },
+  "showtime_id": "ST148",
+  "cinema_id": "R003",
+  "movie_id": "MV004",
+  "room_id": 7,
+  "date": "2025-04-01",
+  "time": "20:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575855b"
+  },
+  "showtime_id": "ST149",
+  "cinema_id": "R001",
+  "movie_id": "MV005",
+  "room_id": 4,
+  "date": "2025-04-04",
+  "time": "10:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575855c"
+  },
+  "showtime_id": "ST150",
+  "cinema_id": "R002",
+  "movie_id": "MV008",
+  "room_id": 1,
+  "date": "2025-04-06",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575855d"
+  },
+  "showtime_id": "ST151",
+  "cinema_id": "R006",
+  "movie_id": "MV006",
+  "room_id": 1,
+  "date": "2025-04-04",
+  "time": "17:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575855e"
+  },
+  "showtime_id": "ST152",
+  "cinema_id": "R005",
+  "movie_id": "MV005",
+  "room_id": 5,
+  "date": "2025-04-06",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575855f"
+  },
+  "showtime_id": "ST153",
+  "cinema_id": "R003",
+  "movie_id": "MV008",
+  "room_id": 3,
+  "date": "2025-04-05",
+  "time": "12:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758560"
+  },
+  "showtime_id": "ST154",
+  "cinema_id": "R005",
+  "movie_id": "MV006",
+  "room_id": 2,
+  "date": "2025-04-01",
+  "time": "12:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758561"
+  },
+  "showtime_id": "ST155",
+  "cinema_id": "R005",
+  "movie_id": "MV002",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758562"
+  },
+  "showtime_id": "ST156",
+  "cinema_id": "R005",
+  "movie_id": "MV001",
+  "room_id": 1,
+  "date": "2025-04-07",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758563"
+  },
+  "showtime_id": "ST157",
+  "cinema_id": "R002",
+  "movie_id": "MV006",
+  "room_id": 5,
+  "date": "2025-04-07",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758564"
+  },
+  "showtime_id": "ST158",
+  "cinema_id": "R007",
+  "movie_id": "MV004",
+  "room_id": 2,
+  "date": "2025-04-01",
+  "time": "19:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758565"
+  },
+  "showtime_id": "ST159",
+  "cinema_id": "R005",
+  "movie_id": "MV007",
+  "room_id": 2,
+  "date": "2025-04-05",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758566"
+  },
+  "showtime_id": "ST160",
+  "cinema_id": "R003",
+  "movie_id": "MV001",
+  "room_id": 3,
+  "date": "2025-04-01",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758567"
+  },
+  "showtime_id": "ST161",
+  "cinema_id": "R003",
+  "movie_id": "MV003",
+  "room_id": 5,
+  "date": "2025-04-01",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758568"
+  },
+  "showtime_id": "ST162",
+  "cinema_id": "R005",
+  "movie_id": "MV008",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "17:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758569"
+  },
+  "showtime_id": "ST163",
+  "cinema_id": "R001",
+  "movie_id": "MV001",
+  "room_id": 3,
+  "date": "2025-04-04",
+  "time": "12:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575856a"
+  },
+  "showtime_id": "ST164",
+  "cinema_id": "R005",
+  "movie_id": "MV004",
+  "room_id": 3,
+  "date": "2025-04-03",
+  "time": "18:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575856b"
+  },
+  "showtime_id": "ST165",
+  "cinema_id": "R006",
+  "movie_id": "MV008",
+  "room_id": 3,
+  "date": "2025-04-06",
+  "time": "11:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575856c"
+  },
+  "showtime_id": "ST166",
+  "cinema_id": "R004",
+  "movie_id": "MV006",
+  "room_id": 1,
+  "date": "2025-04-05",
+  "time": "13:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575856d"
+  },
+  "showtime_id": "ST167",
+  "cinema_id": "R002",
+  "movie_id": "MV002",
+  "room_id": 7,
+  "date": "2025-04-05",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575856e"
+  },
+  "showtime_id": "ST168",
+  "cinema_id": "R001",
+  "movie_id": "MV003",
+  "room_id": 2,
+  "date": "2025-04-04",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575856f"
+  },
+  "showtime_id": "ST169",
+  "cinema_id": "R003",
+  "movie_id": "MV006",
+  "room_id": 1,
+  "date": "2025-04-03",
+  "time": "17:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758570"
+  },
+  "showtime_id": "ST170",
+  "cinema_id": "R007",
+  "movie_id": "MV007",
+  "room_id": 2,
+  "date": "2025-04-01",
+  "time": "15:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758571"
+  },
+  "showtime_id": "ST171",
+  "cinema_id": "R005",
+  "movie_id": "MV001",
+  "room_id": 4,
+  "date": "2025-04-03",
+  "time": "10:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758572"
+  },
+  "showtime_id": "ST172",
+  "cinema_id": "R002",
+  "movie_id": "MV004",
+  "room_id": 2,
+  "date": "2025-04-04",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758573"
+  },
+  "showtime_id": "ST173",
+  "cinema_id": "R002",
+  "movie_id": "MV004",
+  "room_id": 5,
+  "date": "2025-04-01",
+  "time": "22:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758574"
+  },
+  "showtime_id": "ST174",
+  "cinema_id": "R001",
+  "movie_id": "MV004",
+  "room_id": 3,
+  "date": "2025-04-07",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758575"
+  },
+  "showtime_id": "ST175",
+  "cinema_id": "R004",
+  "movie_id": "MV001",
+  "room_id": 6,
+  "date": "2025-04-06",
+  "time": "10:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758576"
+  },
+  "showtime_id": "ST176",
+  "cinema_id": "R002",
+  "movie_id": "MV008",
+  "room_id": 2,
+  "date": "2025-04-04",
+  "time": "20:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758577"
+  },
+  "showtime_id": "ST177",
+  "cinema_id": "R007",
+  "movie_id": "MV005",
+  "room_id": 3,
+  "date": "2025-04-03",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758578"
+  },
+  "showtime_id": "ST178",
+  "cinema_id": "R006",
+  "movie_id": "MV002",
+  "room_id": 2,
+  "date": "2025-04-04",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758579"
+  },
+  "showtime_id": "ST179",
+  "cinema_id": "R003",
+  "movie_id": "MV008",
+  "room_id": 3,
+  "date": "2025-04-04",
+  "time": "19:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575857a"
+  },
+  "showtime_id": "ST180",
+  "cinema_id": "R006",
+  "movie_id": "MV006",
+  "room_id": 1,
+  "date": "2025-04-04",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575857b"
+  },
+  "showtime_id": "ST181",
+  "cinema_id": "R006",
+  "movie_id": "MV006",
+  "room_id": 1,
+  "date": "2025-04-07",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575857c"
+  },
+  "showtime_id": "ST182",
+  "cinema_id": "R002",
+  "movie_id": "MV008",
+  "room_id": 1,
+  "date": "2025-04-04",
+  "time": "15:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575857d"
+  },
+  "showtime_id": "ST183",
+  "cinema_id": "R007",
+  "movie_id": "MV006",
+  "room_id": 1,
+  "date": "2025-04-01",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575857e"
+  },
+  "showtime_id": "ST184",
+  "cinema_id": "R005",
+  "movie_id": "MV007",
+  "room_id": 1,
+  "date": "2025-04-07",
+  "time": "15:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575857f"
+  },
+  "showtime_id": "ST185",
+  "cinema_id": "R001",
+  "movie_id": "MV004",
+  "room_id": 5,
+  "date": "2025-04-04",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758580"
+  },
+  "showtime_id": "ST186",
+  "cinema_id": "R005",
+  "movie_id": "MV007",
+  "room_id": 5,
+  "date": "2025-04-05",
+  "time": "15:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758581"
+  },
+  "showtime_id": "ST187",
+  "cinema_id": "R001",
+  "movie_id": "MV002",
+  "room_id": 1,
+  "date": "2025-04-05",
+  "time": "19:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758582"
+  },
+  "showtime_id": "ST188",
+  "cinema_id": "R002",
+  "movie_id": "MV005",
+  "room_id": 7,
+  "date": "2025-04-07",
+  "time": "20:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758583"
+  },
+  "showtime_id": "ST189",
+  "cinema_id": "R003",
+  "movie_id": "MV002",
+  "room_id": 2,
+  "date": "2025-04-03",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758584"
+  },
+  "showtime_id": "ST190",
+  "cinema_id": "R003",
+  "movie_id": "MV007",
+  "room_id": 4,
+  "date": "2025-04-07",
+  "time": "16:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758585"
+  },
+  "showtime_id": "ST191",
+  "cinema_id": "R006",
+  "movie_id": "MV002",
+  "room_id": 4,
+  "date": "2025-04-03",
+  "time": "14:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758586"
+  },
+  "showtime_id": "ST192",
+  "cinema_id": "R002",
+  "movie_id": "MV004",
+  "room_id": 6,
+  "date": "2025-04-01",
+  "time": "13:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758587"
+  },
+  "showtime_id": "ST193",
+  "cinema_id": "R006",
+  "movie_id": "MV007",
+  "room_id": 2,
+  "date": "2025-04-03",
+  "time": "18:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758588"
+  },
+  "showtime_id": "ST194",
+  "cinema_id": "R005",
+  "movie_id": "MV008",
+  "room_id": 4,
+  "date": "2025-04-02",
+  "time": "14:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758589"
+  },
+  "showtime_id": "ST195",
+  "cinema_id": "R003",
+  "movie_id": "MV006",
+  "room_id": 6,
+  "date": "2025-04-02",
+  "time": "12:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575858a"
+  },
+  "showtime_id": "ST196",
+  "cinema_id": "R001",
+  "movie_id": "MV008",
+  "room_id": 5,
+  "date": "2025-04-01",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575858b"
+  },
+  "showtime_id": "ST197",
+  "cinema_id": "R003",
+  "movie_id": "MV002",
+  "room_id": 1,
+  "date": "2025-04-04",
+  "time": "11:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575858c"
+  },
+  "showtime_id": "ST198",
+  "cinema_id": "R005",
+  "movie_id": "MV004",
+  "room_id": 5,
+  "date": "2025-04-02",
+  "time": "16:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575858d"
+  },
+  "showtime_id": "ST199",
+  "cinema_id": "R002",
+  "movie_id": "MV008",
+  "room_id": 4,
+  "date": "2025-04-04",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575858e"
+  },
+  "showtime_id": "ST200",
+  "cinema_id": "R006",
+  "movie_id": "MV007",
+  "room_id": 2,
+  "date": "2025-04-06",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575858f"
+  },
+  "showtime_id": "ST201",
+  "cinema_id": "R006",
+  "movie_id": "MV003",
+  "room_id": 2,
+  "date": "2025-04-01",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758590"
+  },
+  "showtime_id": "ST202",
+  "cinema_id": "R004",
+  "movie_id": "MV004",
+  "room_id": 2,
+  "date": "2025-04-05",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758591"
+  },
+  "showtime_id": "ST203",
+  "cinema_id": "R001",
+  "movie_id": "MV002",
+  "room_id": 5,
+  "date": "2025-04-07",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758592"
+  },
+  "showtime_id": "ST204",
+  "cinema_id": "R005",
+  "movie_id": "MV003",
+  "room_id": 4,
+  "date": "2025-04-06",
+  "time": "20:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758593"
+  },
+  "showtime_id": "ST205",
+  "cinema_id": "R006",
+  "movie_id": "MV003",
+  "room_id": 3,
+  "date": "2025-04-05",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758594"
+  },
+  "showtime_id": "ST206",
+  "cinema_id": "R007",
+  "movie_id": "MV004",
+  "room_id": 2,
+  "date": "2025-04-06",
+  "time": "15:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758595"
+  },
+  "showtime_id": "ST207",
+  "cinema_id": "R004",
+  "movie_id": "MV008",
+  "room_id": 6,
+  "date": "2025-04-02",
+  "time": "19:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758596"
+  },
+  "showtime_id": "ST208",
+  "cinema_id": "R004",
+  "movie_id": "MV008",
+  "room_id": 2,
+  "date": "2025-04-04",
+  "time": "17:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758597"
+  },
+  "showtime_id": "ST209",
+  "cinema_id": "R002",
+  "movie_id": "MV004",
+  "room_id": 2,
+  "date": "2025-04-07",
+  "time": "19:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758598"
+  },
+  "showtime_id": "ST210",
+  "cinema_id": "R004",
+  "movie_id": "MV007",
+  "room_id": 6,
+  "date": "2025-04-01",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758599"
+  },
+  "showtime_id": "ST211",
+  "cinema_id": "R004",
+  "movie_id": "MV006",
+  "room_id": 1,
+  "date": "2025-04-07",
+  "time": "12:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575859a"
+  },
+  "showtime_id": "ST212",
+  "cinema_id": "R004",
+  "movie_id": "MV003",
+  "room_id": 2,
+  "date": "2025-04-06",
+  "time": "20:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575859b"
+  },
+  "showtime_id": "ST213",
+  "cinema_id": "R006",
+  "movie_id": "MV006",
+  "room_id": 2,
+  "date": "2025-04-04",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575859c"
+  },
+  "showtime_id": "ST214",
+  "cinema_id": "R001",
+  "movie_id": "MV004",
+  "room_id": 3,
+  "date": "2025-04-05",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575859d"
+  },
+  "showtime_id": "ST215",
+  "cinema_id": "R003",
+  "movie_id": "MV006",
+  "room_id": 4,
+  "date": "2025-04-05",
+  "time": "16:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575859e"
+  },
+  "showtime_id": "ST216",
+  "cinema_id": "R003",
+  "movie_id": "MV006",
+  "room_id": 7,
+  "date": "2025-04-02",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575859f"
+  },
+  "showtime_id": "ST217",
+  "cinema_id": "R007",
+  "movie_id": "MV001",
+  "room_id": 2,
+  "date": "2025-04-03",
+  "time": "19:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585a0"
+  },
+  "showtime_id": "ST218",
+  "cinema_id": "R003",
+  "movie_id": "MV006",
+  "room_id": 3,
+  "date": "2025-04-05",
+  "time": "11:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585a1"
+  },
+  "showtime_id": "ST219",
+  "cinema_id": "R005",
+  "movie_id": "MV005",
+  "room_id": 5,
+  "date": "2025-04-03",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585a2"
+  },
+  "showtime_id": "ST220",
+  "cinema_id": "R005",
+  "movie_id": "MV004",
+  "room_id": 2,
+  "date": "2025-04-03",
+  "time": "18:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585a3"
+  },
+  "showtime_id": "ST221",
+  "cinema_id": "R004",
+  "movie_id": "MV003",
+  "room_id": 2,
+  "date": "2025-04-02",
+  "time": "19:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585a4"
+  },
+  "showtime_id": "ST222",
+  "cinema_id": "R005",
+  "movie_id": "MV002",
+  "room_id": 5,
+  "date": "2025-04-06",
+  "time": "10:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585a5"
+  },
+  "showtime_id": "ST223",
+  "cinema_id": "R001",
+  "movie_id": "MV005",
+  "room_id": 2,
+  "date": "2025-04-04",
+  "time": "18:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585a6"
+  },
+  "showtime_id": "ST224",
+  "cinema_id": "R006",
+  "movie_id": "MV004",
+  "room_id": 2,
+  "date": "2025-04-02",
+  "time": "18:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585a7"
+  },
+  "showtime_id": "ST225",
+  "cinema_id": "R006",
+  "movie_id": "MV005",
+  "room_id": 3,
+  "date": "2025-04-03",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585a8"
+  },
+  "showtime_id": "ST226",
+  "cinema_id": "R002",
+  "movie_id": "MV003",
+  "room_id": 6,
+  "date": "2025-04-04",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585a9"
+  },
+  "showtime_id": "ST227",
+  "cinema_id": "R004",
+  "movie_id": "MV005",
+  "room_id": 4,
+  "date": "2025-04-04",
+  "time": "19:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585aa"
+  },
+  "showtime_id": "ST228",
+  "cinema_id": "R003",
+  "movie_id": "MV001",
+  "room_id": 2,
+  "date": "2025-04-04",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585ab"
+  },
+  "showtime_id": "ST229",
+  "cinema_id": "R001",
+  "movie_id": "MV008",
+  "room_id": 3,
+  "date": "2025-04-03",
+  "time": "22:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585ac"
+  },
+  "showtime_id": "ST230",
+  "cinema_id": "R006",
+  "movie_id": "MV002",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "18:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585ad"
+  },
+  "showtime_id": "ST231",
+  "cinema_id": "R007",
+  "movie_id": "MV006",
+  "room_id": 1,
+  "date": "2025-04-04",
+  "time": "12:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585ae"
+  },
+  "showtime_id": "ST232",
+  "cinema_id": "R005",
+  "movie_id": "MV004",
+  "room_id": 4,
+  "date": "2025-04-04",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585af"
+  },
+  "showtime_id": "ST233",
+  "cinema_id": "R003",
+  "movie_id": "MV005",
+  "room_id": 1,
+  "date": "2025-04-01",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585b0"
+  },
+  "showtime_id": "ST234",
+  "cinema_id": "R004",
+  "movie_id": "MV001",
+  "room_id": 2,
+  "date": "2025-04-05",
+  "time": "19:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585b1"
+  },
+  "showtime_id": "ST235",
+  "cinema_id": "R004",
+  "movie_id": "MV008",
+  "room_id": 4,
+  "date": "2025-04-05",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585b2"
+  },
+  "showtime_id": "ST236",
+  "cinema_id": "R005",
+  "movie_id": "MV005",
+  "room_id": 2,
+  "date": "2025-04-06",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585b3"
+  },
+  "showtime_id": "ST237",
+  "cinema_id": "R004",
+  "movie_id": "MV002",
+  "room_id": 5,
+  "date": "2025-04-01",
+  "time": "17:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585b4"
+  },
+  "showtime_id": "ST238",
+  "cinema_id": "R005",
+  "movie_id": "MV003",
+  "room_id": 1,
+  "date": "2025-04-07",
+  "time": "10:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585b5"
+  },
+  "showtime_id": "ST239",
+  "cinema_id": "R004",
+  "movie_id": "MV004",
+  "room_id": 6,
+  "date": "2025-04-04",
+  "time": "19:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585b6"
+  },
+  "showtime_id": "ST240",
+  "cinema_id": "R007",
+  "movie_id": "MV002",
+  "room_id": 2,
+  "date": "2025-04-02",
+  "time": "11:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585b7"
+  },
+  "showtime_id": "ST241",
+  "cinema_id": "R002",
+  "movie_id": "MV001",
+  "room_id": 4,
+  "date": "2025-04-02",
+  "time": "17:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585b8"
+  },
+  "showtime_id": "ST242",
+  "cinema_id": "R003",
+  "movie_id": "MV001",
+  "room_id": 6,
+  "date": "2025-04-03",
+  "time": "12:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585b9"
+  },
+  "showtime_id": "ST243",
+  "cinema_id": "R001",
+  "movie_id": "MV006",
+  "room_id": 1,
+  "date": "2025-04-05",
+  "time": "12:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585ba"
+  },
+  "showtime_id": "ST244",
+  "cinema_id": "R005",
+  "movie_id": "MV002",
+  "room_id": 1,
+  "date": "2025-04-04",
+  "time": "15:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585bb"
+  },
+  "showtime_id": "ST245",
+  "cinema_id": "R004",
+  "movie_id": "MV001",
+  "room_id": 5,
+  "date": "2025-04-05",
+  "time": "19:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585bc"
+  },
+  "showtime_id": "ST246",
+  "cinema_id": "R002",
+  "movie_id": "MV006",
+  "room_id": 7,
+  "date": "2025-04-01",
+  "time": "10:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585bd"
+  },
+  "showtime_id": "ST247",
+  "cinema_id": "R003",
+  "movie_id": "MV008",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585be"
+  },
+  "showtime_id": "ST248",
+  "cinema_id": "R007",
+  "movie_id": "MV005",
+  "room_id": 2,
+  "date": "2025-04-01",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585bf"
+  },
+  "showtime_id": "ST249",
+  "cinema_id": "R005",
+  "movie_id": "MV008",
+  "room_id": 1,
+  "date": "2025-04-05",
+  "time": "13:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585c0"
+  },
+  "showtime_id": "ST250",
+  "cinema_id": "R006",
+  "movie_id": "MV005",
+  "room_id": 2,
+  "date": "2025-04-06",
+  "time": "13:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585c1"
+  },
+  "showtime_id": "ST251",
+  "cinema_id": "R002",
+  "movie_id": "MV007",
+  "room_id": 3,
+  "date": "2025-04-07",
+  "time": "20:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585c2"
+  },
+  "showtime_id": "ST252",
+  "cinema_id": "R001",
+  "movie_id": "MV001",
+  "room_id": 2,
+  "date": "2025-04-07",
+  "time": "17:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585c3"
+  },
+  "showtime_id": "ST253",
+  "cinema_id": "R004",
+  "movie_id": "MV005",
+  "room_id": 2,
+  "date": "2025-04-07",
+  "time": "11:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585c4"
+  },
+  "showtime_id": "ST254",
+  "cinema_id": "R006",
+  "movie_id": "MV008",
+  "room_id": 4,
+  "date": "2025-04-03",
+  "time": "16:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585c5"
+  },
+  "showtime_id": "ST255",
+  "cinema_id": "R002",
+  "movie_id": "MV004",
+  "room_id": 3,
+  "date": "2025-04-06",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585c6"
+  },
+  "showtime_id": "ST256",
+  "cinema_id": "R006",
+  "movie_id": "MV007",
+  "room_id": 3,
+  "date": "2025-04-06",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585c7"
+  },
+  "showtime_id": "ST257",
+  "cinema_id": "R001",
+  "movie_id": "MV006",
+  "room_id": 1,
+  "date": "2025-04-04",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585c8"
+  },
+  "showtime_id": "ST258",
+  "cinema_id": "R002",
+  "movie_id": "MV006",
+  "room_id": 7,
+  "date": "2025-04-01",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585c9"
+  },
+  "showtime_id": "ST259",
+  "cinema_id": "R004",
+  "movie_id": "MV005",
+  "room_id": 5,
+  "date": "2025-04-05",
+  "time": "17:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585ca"
+  },
+  "showtime_id": "ST260",
+  "cinema_id": "R004",
+  "movie_id": "MV005",
+  "room_id": 2,
+  "date": "2025-04-07",
+  "time": "22:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585cb"
+  },
+  "showtime_id": "ST261",
+  "cinema_id": "R007",
+  "movie_id": "MV006",
+  "room_id": 2,
+  "date": "2025-04-06",
+  "time": "14:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585cc"
+  },
+  "showtime_id": "ST262",
+  "cinema_id": "R006",
+  "movie_id": "MV005",
+  "room_id": 4,
+  "date": "2025-04-07",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585cd"
+  },
+  "showtime_id": "ST263",
+  "cinema_id": "R004",
+  "movie_id": "MV002",
+  "room_id": 3,
+  "date": "2025-04-03",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585ce"
+  },
+  "showtime_id": "ST264",
+  "cinema_id": "R003",
+  "movie_id": "MV006",
+  "room_id": 2,
+  "date": "2025-04-03",
+  "time": "11:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585cf"
+  },
+  "showtime_id": "ST265",
+  "cinema_id": "R006",
+  "movie_id": "MV002",
+  "room_id": 1,
+  "date": "2025-04-05",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585d0"
+  },
+  "showtime_id": "ST266",
+  "cinema_id": "R005",
+  "movie_id": "MV007",
+  "room_id": 2,
+  "date": "2025-04-02",
+  "time": "15:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585d1"
+  },
+  "showtime_id": "ST267",
+  "cinema_id": "R004",
+  "movie_id": "MV005",
+  "room_id": 4,
+  "date": "2025-04-04",
+  "time": "19:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585d2"
+  },
+  "showtime_id": "ST268",
+  "cinema_id": "R001",
+  "movie_id": "MV003",
+  "room_id": 2,
+  "date": "2025-04-05",
+  "time": "18:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585d3"
+  },
+  "showtime_id": "ST269",
+  "cinema_id": "R005",
+  "movie_id": "MV002",
+  "room_id": 5,
+  "date": "2025-04-04",
+  "time": "20:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585d4"
+  },
+  "showtime_id": "ST270",
+  "cinema_id": "R004",
+  "movie_id": "MV002",
+  "room_id": 1,
+  "date": "2025-04-06",
+  "time": "19:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585d5"
+  },
+  "showtime_id": "ST271",
+  "cinema_id": "R005",
+  "movie_id": "MV004",
+  "room_id": 2,
+  "date": "2025-04-04",
+  "time": "20:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585d6"
+  },
+  "showtime_id": "ST272",
+  "cinema_id": "R002",
+  "movie_id": "MV007",
+  "room_id": 3,
+  "date": "2025-04-07",
+  "time": "10:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585d7"
+  },
+  "showtime_id": "ST273",
+  "cinema_id": "R005",
+  "movie_id": "MV007",
+  "room_id": 4,
+  "date": "2025-04-07",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585d8"
+  },
+  "showtime_id": "ST274",
+  "cinema_id": "R003",
+  "movie_id": "MV007",
+  "room_id": 4,
+  "date": "2025-04-05",
+  "time": "16:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585d9"
+  },
+  "showtime_id": "ST275",
+  "cinema_id": "R007",
+  "movie_id": "MV003",
+  "room_id": 2,
+  "date": "2025-04-03",
+  "time": "14:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585da"
+  },
+  "showtime_id": "ST276",
+  "cinema_id": "R007",
+  "movie_id": "MV003",
+  "room_id": 4,
+  "date": "2025-04-07",
+  "time": "18:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585db"
+  },
+  "showtime_id": "ST277",
+  "cinema_id": "R003",
+  "movie_id": "MV004",
+  "room_id": 4,
+  "date": "2025-04-07",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585dc"
+  },
+  "showtime_id": "ST278",
+  "cinema_id": "R001",
+  "movie_id": "MV001",
+  "room_id": 2,
+  "date": "2025-04-05",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585dd"
+  },
+  "showtime_id": "ST279",
+  "cinema_id": "R003",
+  "movie_id": "MV003",
+  "room_id": 6,
+  "date": "2025-04-06",
+  "time": "10:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585de"
+  },
+  "showtime_id": "ST280",
+  "cinema_id": "R005",
+  "movie_id": "MV007",
+  "room_id": 2,
+  "date": "2025-04-01",
+  "time": "22:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585df"
+  },
+  "showtime_id": "ST281",
+  "cinema_id": "R002",
+  "movie_id": "MV008",
+  "room_id": 1,
+  "date": "2025-04-06",
+  "time": "17:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585e0"
+  },
+  "showtime_id": "ST282",
+  "cinema_id": "R007",
+  "movie_id": "MV002",
+  "room_id": 4,
+  "date": "2025-04-02",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585e1"
+  },
+  "showtime_id": "ST283",
+  "cinema_id": "R007",
+  "movie_id": "MV007",
+  "room_id": 4,
+  "date": "2025-04-02",
+  "time": "22:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585e2"
+  },
+  "showtime_id": "ST284",
+  "cinema_id": "R004",
+  "movie_id": "MV008",
+  "room_id": 2,
+  "date": "2025-04-06",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585e3"
+  },
+  "showtime_id": "ST285",
+  "cinema_id": "R003",
+  "movie_id": "MV004",
+  "room_id": 5,
+  "date": "2025-04-06",
+  "time": "18:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585e4"
+  },
+  "showtime_id": "ST286",
+  "cinema_id": "R003",
+  "movie_id": "MV002",
+  "room_id": 1,
+  "date": "2025-04-01",
+  "time": "22:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585e5"
+  },
+  "showtime_id": "ST287",
+  "cinema_id": "R005",
+  "movie_id": "MV005",
+  "room_id": 2,
+  "date": "2025-04-07",
+  "time": "10:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585e6"
+  },
+  "showtime_id": "ST288",
+  "cinema_id": "R004",
+  "movie_id": "MV007",
+  "room_id": 6,
+  "date": "2025-04-07",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585e7"
+  },
+  "showtime_id": "ST289",
+  "cinema_id": "R004",
+  "movie_id": "MV008",
+  "room_id": 5,
+  "date": "2025-04-07",
+  "time": "15:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585e8"
+  },
+  "showtime_id": "ST290",
+  "cinema_id": "R005",
+  "movie_id": "MV005",
+  "room_id": 2,
+  "date": "2025-04-07",
+  "time": "11:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585e9"
+  },
+  "showtime_id": "ST291",
+  "cinema_id": "R005",
+  "movie_id": "MV001",
+  "room_id": 2,
+  "date": "2025-04-02",
+  "time": "18:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585ea"
+  },
+  "showtime_id": "ST292",
+  "cinema_id": "R002",
+  "movie_id": "MV008",
+  "room_id": 3,
+  "date": "2025-04-03",
+  "time": "17:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585eb"
+  },
+  "showtime_id": "ST293",
+  "cinema_id": "R004",
+  "movie_id": "MV001",
+  "room_id": 2,
+  "date": "2025-04-01",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585ec"
+  },
+  "showtime_id": "ST294",
+  "cinema_id": "R003",
+  "movie_id": "MV008",
+  "room_id": 7,
+  "date": "2025-04-06",
+  "time": "10:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585ed"
+  },
+  "showtime_id": "ST295",
+  "cinema_id": "R004",
+  "movie_id": "MV006",
+  "room_id": 4,
+  "date": "2025-04-05",
+  "time": "12:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585ee"
+  },
+  "showtime_id": "ST296",
+  "cinema_id": "R007",
+  "movie_id": "MV005",
+  "room_id": 4,
+  "date": "2025-04-03",
+  "time": "15:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585ef"
+  },
+  "showtime_id": "ST297",
+  "cinema_id": "R007",
+  "movie_id": "MV004",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "16:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585f0"
+  },
+  "showtime_id": "ST298",
+  "cinema_id": "R003",
+  "movie_id": "MV006",
+  "room_id": 7,
+  "date": "2025-04-02",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585f1"
+  },
+  "showtime_id": "ST299",
+  "cinema_id": "R002",
+  "movie_id": "MV006",
+  "room_id": 4,
+  "date": "2025-04-07",
+  "time": "13:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585f2"
+  },
+  "showtime_id": "ST300",
+  "cinema_id": "R001",
+  "movie_id": "MV001",
+  "room_id": 5,
+  "date": "2025-04-05",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585f3"
+  },
+  "showtime_id": "ST301",
+  "cinema_id": "R003",
+  "movie_id": "MV007",
+  "room_id": 4,
+  "date": "2025-04-01",
+  "time": "15:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585f4"
+  },
+  "showtime_id": "ST302",
+  "cinema_id": "R003",
+  "movie_id": "MV001",
+  "room_id": 5,
+  "date": "2025-04-04",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585f5"
+  },
+  "showtime_id": "ST303",
+  "cinema_id": "R005",
+  "movie_id": "MV008",
+  "room_id": 3,
+  "date": "2025-04-05",
+  "time": "18:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585f6"
+  },
+  "showtime_id": "ST304",
+  "cinema_id": "R003",
+  "movie_id": "MV007",
+  "room_id": 4,
+  "date": "2025-04-05",
+  "time": "10:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585f7"
+  },
+  "showtime_id": "ST305",
+  "cinema_id": "R004",
+  "movie_id": "MV003",
+  "room_id": 3,
+  "date": "2025-04-05",
+  "time": "16:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585f8"
+  },
+  "showtime_id": "ST306",
+  "cinema_id": "R002",
+  "movie_id": "MV004",
+  "room_id": 7,
+  "date": "2025-04-01",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585f9"
+  },
+  "showtime_id": "ST307",
+  "cinema_id": "R007",
+  "movie_id": "MV005",
+  "room_id": 4,
+  "date": "2025-04-02",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585fa"
+  },
+  "showtime_id": "ST308",
+  "cinema_id": "R006",
+  "movie_id": "MV006",
+  "room_id": 4,
+  "date": "2025-04-07",
+  "time": "13:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585fb"
+  },
+  "showtime_id": "ST309",
+  "cinema_id": "R004",
+  "movie_id": "MV006",
+  "room_id": 3,
+  "date": "2025-04-06",
+  "time": "22:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585fc"
+  },
+  "showtime_id": "ST310",
+  "cinema_id": "R004",
+  "movie_id": "MV005",
+  "room_id": 3,
+  "date": "2025-04-05",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585fd"
+  },
+  "showtime_id": "ST311",
+  "cinema_id": "R007",
+  "movie_id": "MV001",
+  "room_id": 4,
+  "date": "2025-04-01",
+  "time": "10:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585fe"
+  },
+  "showtime_id": "ST312",
+  "cinema_id": "R007",
+  "movie_id": "MV001",
+  "room_id": 4,
+  "date": "2025-04-07",
+  "time": "11:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57585ff"
+  },
+  "showtime_id": "ST313",
+  "cinema_id": "R001",
+  "movie_id": "MV005",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758600"
+  },
+  "showtime_id": "ST314",
+  "cinema_id": "R003",
+  "movie_id": "MV008",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "16:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758601"
+  },
+  "showtime_id": "ST315",
+  "cinema_id": "R007",
+  "movie_id": "MV004",
+  "room_id": 1,
+  "date": "2025-04-03",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758602"
+  },
+  "showtime_id": "ST316",
+  "cinema_id": "R004",
+  "movie_id": "MV003",
+  "room_id": 3,
+  "date": "2025-04-07",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758603"
+  },
+  "showtime_id": "ST317",
+  "cinema_id": "R005",
+  "movie_id": "MV008",
+  "room_id": 4,
+  "date": "2025-04-06",
+  "time": "16:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758604"
+  },
+  "showtime_id": "ST318",
+  "cinema_id": "R004",
+  "movie_id": "MV004",
+  "room_id": 2,
+  "date": "2025-04-03",
+  "time": "15:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758605"
+  },
+  "showtime_id": "ST319",
+  "cinema_id": "R004",
+  "movie_id": "MV008",
+  "room_id": 6,
+  "date": "2025-04-01",
+  "time": "17:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758606"
+  },
+  "showtime_id": "ST320",
+  "cinema_id": "R001",
+  "movie_id": "MV004",
+  "room_id": 4,
+  "date": "2025-04-01",
+  "time": "13:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758607"
+  },
+  "showtime_id": "ST321",
+  "cinema_id": "R005",
+  "movie_id": "MV005",
+  "room_id": 1,
+  "date": "2025-04-05",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758608"
+  },
+  "showtime_id": "ST322",
+  "cinema_id": "R006",
+  "movie_id": "MV001",
+  "room_id": 1,
+  "date": "2025-04-03",
+  "time": "15:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758609"
+  },
+  "showtime_id": "ST323",
+  "cinema_id": "R003",
+  "movie_id": "MV007",
+  "room_id": 7,
+  "date": "2025-04-07",
+  "time": "22:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575860a"
+  },
+  "showtime_id": "ST324",
+  "cinema_id": "R007",
+  "movie_id": "MV002",
+  "room_id": 3,
+  "date": "2025-04-06",
+  "time": "11:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575860b"
+  },
+  "showtime_id": "ST325",
+  "cinema_id": "R001",
+  "movie_id": "MV002",
+  "room_id": 5,
+  "date": "2025-04-02",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575860c"
+  },
+  "showtime_id": "ST326",
+  "cinema_id": "R002",
+  "movie_id": "MV002",
+  "room_id": 3,
+  "date": "2025-04-06",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575860d"
+  },
+  "showtime_id": "ST327",
+  "cinema_id": "R007",
+  "movie_id": "MV002",
+  "room_id": 2,
+  "date": "2025-04-01",
+  "time": "13:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575860e"
+  },
+  "showtime_id": "ST328",
+  "cinema_id": "R005",
+  "movie_id": "MV001",
+  "room_id": 4,
+  "date": "2025-04-06",
+  "time": "14:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575860f"
+  },
+  "showtime_id": "ST329",
+  "cinema_id": "R001",
+  "movie_id": "MV005",
+  "room_id": 5,
+  "date": "2025-04-04",
+  "time": "22:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758610"
+  },
+  "showtime_id": "ST330",
+  "cinema_id": "R001",
+  "movie_id": "MV003",
+  "room_id": 1,
+  "date": "2025-04-04",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758611"
+  },
+  "showtime_id": "ST331",
+  "cinema_id": "R002",
+  "movie_id": "MV006",
+  "room_id": 6,
+  "date": "2025-04-06",
+  "time": "10:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758612"
+  },
+  "showtime_id": "ST332",
+  "cinema_id": "R003",
+  "movie_id": "MV005",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758613"
+  },
+  "showtime_id": "ST333",
+  "cinema_id": "R001",
+  "movie_id": "MV006",
+  "room_id": 2,
+  "date": "2025-04-06",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758614"
+  },
+  "showtime_id": "ST334",
+  "cinema_id": "R006",
+  "movie_id": "MV006",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758615"
+  },
+  "showtime_id": "ST335",
+  "cinema_id": "R004",
+  "movie_id": "MV003",
+  "room_id": 5,
+  "date": "2025-04-07",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758616"
+  },
+  "showtime_id": "ST336",
+  "cinema_id": "R003",
+  "movie_id": "MV008",
+  "room_id": 2,
+  "date": "2025-04-06",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758617"
+  },
+  "showtime_id": "ST337",
+  "cinema_id": "R003",
+  "movie_id": "MV003",
+  "room_id": 6,
+  "date": "2025-04-06",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758618"
+  },
+  "showtime_id": "ST338",
+  "cinema_id": "R005",
+  "movie_id": "MV007",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "22:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758619"
+  },
+  "showtime_id": "ST339",
+  "cinema_id": "R005",
+  "movie_id": "MV006",
+  "room_id": 1,
+  "date": "2025-04-04",
+  "time": "20:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575861a"
+  },
+  "showtime_id": "ST340",
+  "cinema_id": "R005",
+  "movie_id": "MV007",
+  "room_id": 2,
+  "date": "2025-04-04",
+  "time": "13:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575861b"
+  },
+  "showtime_id": "ST341",
+  "cinema_id": "R006",
+  "movie_id": "MV008",
+  "room_id": 1,
+  "date": "2025-04-05",
+  "time": "22:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575861c"
+  },
+  "showtime_id": "ST342",
+  "cinema_id": "R007",
+  "movie_id": "MV002",
+  "room_id": 2,
+  "date": "2025-04-03",
+  "time": "12:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575861d"
+  },
+  "showtime_id": "ST343",
+  "cinema_id": "R004",
+  "movie_id": "MV002",
+  "room_id": 2,
+  "date": "2025-04-03",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575861e"
+  },
+  "showtime_id": "ST344",
+  "cinema_id": "R001",
+  "movie_id": "MV005",
+  "room_id": 2,
+  "date": "2025-04-02",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575861f"
+  },
+  "showtime_id": "ST345",
+  "cinema_id": "R004",
+  "movie_id": "MV003",
+  "room_id": 6,
+  "date": "2025-04-01",
+  "time": "22:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758620"
+  },
+  "showtime_id": "ST346",
+  "cinema_id": "R004",
+  "movie_id": "MV004",
+  "room_id": 2,
+  "date": "2025-04-04",
+  "time": "22:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758621"
+  },
+  "showtime_id": "ST347",
+  "cinema_id": "R001",
+  "movie_id": "MV006",
+  "room_id": 4,
+  "date": "2025-04-04",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758622"
+  },
+  "showtime_id": "ST348",
+  "cinema_id": "R003",
+  "movie_id": "MV004",
+  "room_id": 3,
+  "date": "2025-04-04",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758623"
+  },
+  "showtime_id": "ST349",
+  "cinema_id": "R006",
+  "movie_id": "MV001",
+  "room_id": 2,
+  "date": "2025-04-04",
+  "time": "11:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758624"
+  },
+  "showtime_id": "ST350",
+  "cinema_id": "R004",
+  "movie_id": "MV006",
+  "room_id": 2,
+  "date": "2025-04-04",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758625"
+  },
+  "showtime_id": "ST351",
+  "cinema_id": "R006",
+  "movie_id": "MV008",
+  "room_id": 4,
+  "date": "2025-04-06",
+  "time": "14:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758626"
+  },
+  "showtime_id": "ST352",
+  "cinema_id": "R003",
+  "movie_id": "MV002",
+  "room_id": 5,
+  "date": "2025-04-01",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758627"
+  },
+  "showtime_id": "ST353",
+  "cinema_id": "R006",
+  "movie_id": "MV007",
+  "room_id": 1,
+  "date": "2025-04-07",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758628"
+  },
+  "showtime_id": "ST354",
+  "cinema_id": "R006",
+  "movie_id": "MV003",
+  "room_id": 3,
+  "date": "2025-04-05",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758629"
+  },
+  "showtime_id": "ST355",
+  "cinema_id": "R007",
+  "movie_id": "MV003",
+  "room_id": 1,
+  "date": "2025-04-03",
+  "time": "20:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575862a"
+  },
+  "showtime_id": "ST356",
+  "cinema_id": "R002",
+  "movie_id": "MV003",
+  "room_id": 4,
+  "date": "2025-04-07",
+  "time": "18:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575862b"
+  },
+  "showtime_id": "ST357",
+  "cinema_id": "R001",
+  "movie_id": "MV004",
+  "room_id": 1,
+  "date": "2025-04-06",
+  "time": "12:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575862c"
+  },
+  "showtime_id": "ST358",
+  "cinema_id": "R004",
+  "movie_id": "MV003",
+  "room_id": 6,
+  "date": "2025-04-02",
+  "time": "14:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575862d"
+  },
+  "showtime_id": "ST359",
+  "cinema_id": "R005",
+  "movie_id": "MV001",
+  "room_id": 2,
+  "date": "2025-04-03",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575862e"
+  },
+  "showtime_id": "ST360",
+  "cinema_id": "R006",
+  "movie_id": "MV008",
+  "room_id": 3,
+  "date": "2025-04-04",
+  "time": "20:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575862f"
+  },
+  "showtime_id": "ST361",
+  "cinema_id": "R002",
+  "movie_id": "MV006",
+  "room_id": 1,
+  "date": "2025-04-04",
+  "time": "18:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758630"
+  },
+  "showtime_id": "ST362",
+  "cinema_id": "R004",
+  "movie_id": "MV007",
+  "room_id": 2,
+  "date": "2025-04-03",
+  "time": "11:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758631"
+  },
+  "showtime_id": "ST363",
+  "cinema_id": "R002",
+  "movie_id": "MV002",
+  "room_id": 3,
+  "date": "2025-04-01",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758632"
+  },
+  "showtime_id": "ST364",
+  "cinema_id": "R004",
+  "movie_id": "MV004",
+  "room_id": 2,
+  "date": "2025-04-07",
+  "time": "19:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758633"
+  },
+  "showtime_id": "ST365",
+  "cinema_id": "R001",
+  "movie_id": "MV001",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758634"
+  },
+  "showtime_id": "ST366",
+  "cinema_id": "R005",
+  "movie_id": "MV003",
+  "room_id": 5,
+  "date": "2025-04-06",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758635"
+  },
+  "showtime_id": "ST367",
+  "cinema_id": "R004",
+  "movie_id": "MV005",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "17:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758636"
+  },
+  "showtime_id": "ST368",
+  "cinema_id": "R006",
+  "movie_id": "MV006",
+  "room_id": 3,
+  "date": "2025-04-03",
+  "time": "11:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758637"
+  },
+  "showtime_id": "ST369",
+  "cinema_id": "R004",
+  "movie_id": "MV002",
+  "room_id": 6,
+  "date": "2025-04-01",
+  "time": "18:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758638"
+  },
+  "showtime_id": "ST370",
+  "cinema_id": "R002",
+  "movie_id": "MV008",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758639"
+  },
+  "showtime_id": "ST371",
+  "cinema_id": "R001",
+  "movie_id": "MV008",
+  "room_id": 2,
+  "date": "2025-04-06",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575863a"
+  },
+  "showtime_id": "ST372",
+  "cinema_id": "R001",
+  "movie_id": "MV006",
+  "room_id": 2,
+  "date": "2025-04-04",
+  "time": "14:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575863b"
+  },
+  "showtime_id": "ST373",
+  "cinema_id": "R006",
+  "movie_id": "MV007",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575863c"
+  },
+  "showtime_id": "ST374",
+  "cinema_id": "R007",
+  "movie_id": "MV004",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "18:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575863d"
+  },
+  "showtime_id": "ST375",
+  "cinema_id": "R002",
+  "movie_id": "MV001",
+  "room_id": 6,
+  "date": "2025-04-04",
+  "time": "19:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575863e"
+  },
+  "showtime_id": "ST376",
+  "cinema_id": "R004",
+  "movie_id": "MV001",
+  "room_id": 5,
+  "date": "2025-04-01",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575863f"
+  },
+  "showtime_id": "ST377",
+  "cinema_id": "R007",
+  "movie_id": "MV007",
+  "room_id": 1,
+  "date": "2025-04-01",
+  "time": "11:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758640"
+  },
+  "showtime_id": "ST378",
+  "cinema_id": "R005",
+  "movie_id": "MV008",
+  "room_id": 4,
+  "date": "2025-04-06",
+  "time": "20:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758641"
+  },
+  "showtime_id": "ST379",
+  "cinema_id": "R002",
+  "movie_id": "MV007",
+  "room_id": 1,
+  "date": "2025-04-02",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758642"
+  },
+  "showtime_id": "ST380",
+  "cinema_id": "R004",
+  "movie_id": "MV005",
+  "room_id": 5,
+  "date": "2025-04-06",
+  "time": "15:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758643"
+  },
+  "showtime_id": "ST381",
+  "cinema_id": "R004",
+  "movie_id": "MV008",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "14:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758644"
+  },
+  "showtime_id": "ST382",
+  "cinema_id": "R005",
+  "movie_id": "MV005",
+  "room_id": 5,
+  "date": "2025-04-06",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758645"
+  },
+  "showtime_id": "ST383",
+  "cinema_id": "R006",
+  "movie_id": "MV002",
+  "room_id": 4,
+  "date": "2025-04-02",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758646"
+  },
+  "showtime_id": "ST384",
+  "cinema_id": "R002",
+  "movie_id": "MV004",
+  "room_id": 5,
+  "date": "2025-04-07",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758647"
+  },
+  "showtime_id": "ST385",
+  "cinema_id": "R001",
+  "movie_id": "MV006",
+  "room_id": 3,
+  "date": "2025-04-03",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758648"
+  },
+  "showtime_id": "ST386",
+  "cinema_id": "R007",
+  "movie_id": "MV005",
+  "room_id": 3,
+  "date": "2025-04-06",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758649"
+  },
+  "showtime_id": "ST387",
+  "cinema_id": "R007",
+  "movie_id": "MV001",
+  "room_id": 2,
+  "date": "2025-04-06",
+  "time": "15:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575864a"
+  },
+  "showtime_id": "ST388",
+  "cinema_id": "R001",
+  "movie_id": "MV008",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "11:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575864b"
+  },
+  "showtime_id": "ST389",
+  "cinema_id": "R004",
+  "movie_id": "MV007",
+  "room_id": 5,
+  "date": "2025-04-03",
+  "time": "10:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575864c"
+  },
+  "showtime_id": "ST390",
+  "cinema_id": "R005",
+  "movie_id": "MV008",
+  "room_id": 5,
+  "date": "2025-04-06",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575864d"
+  },
+  "showtime_id": "ST391",
+  "cinema_id": "R005",
+  "movie_id": "MV002",
+  "room_id": 1,
+  "date": "2025-04-04",
+  "time": "18:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575864e"
+  },
+  "showtime_id": "ST392",
+  "cinema_id": "R002",
+  "movie_id": "MV006",
+  "room_id": 3,
+  "date": "2025-04-04",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575864f"
+  },
+  "showtime_id": "ST393",
+  "cinema_id": "R006",
+  "movie_id": "MV006",
+  "room_id": 4,
+  "date": "2025-04-02",
+  "time": "16:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758650"
+  },
+  "showtime_id": "ST394",
+  "cinema_id": "R001",
+  "movie_id": "MV005",
+  "room_id": 5,
+  "date": "2025-04-05",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758651"
+  },
+  "showtime_id": "ST395",
+  "cinema_id": "R002",
+  "movie_id": "MV003",
+  "room_id": 2,
+  "date": "2025-04-07",
+  "time": "11:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758652"
+  },
+  "showtime_id": "ST396",
+  "cinema_id": "R003",
+  "movie_id": "MV003",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "16:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758653"
+  },
+  "showtime_id": "ST397",
+  "cinema_id": "R005",
+  "movie_id": "MV005",
+  "room_id": 4,
+  "date": "2025-04-05",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758654"
+  },
+  "showtime_id": "ST398",
+  "cinema_id": "R007",
+  "movie_id": "MV001",
+  "room_id": 1,
+  "date": "2025-04-06",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758655"
+  },
+  "showtime_id": "ST399",
+  "cinema_id": "R006",
+  "movie_id": "MV006",
+  "room_id": 2,
+  "date": "2025-04-06",
+  "time": "14:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758656"
+  },
+  "showtime_id": "ST400",
+  "cinema_id": "R003",
+  "movie_id": "MV001",
+  "room_id": 1,
+  "date": "2025-04-01",
+  "time": "18:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758657"
+  },
+  "showtime_id": "ST401",
+  "cinema_id": "R007",
+  "movie_id": "MV004",
+  "room_id": 4,
+  "date": "2025-04-03",
+  "time": "19:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758658"
+  },
+  "showtime_id": "ST402",
+  "cinema_id": "R004",
+  "movie_id": "MV003",
+  "room_id": 2,
+  "date": "2025-04-07",
+  "time": "11:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758659"
+  },
+  "showtime_id": "ST403",
+  "cinema_id": "R005",
+  "movie_id": "MV003",
+  "room_id": 4,
+  "date": "2025-04-04",
+  "time": "13:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575865a"
+  },
+  "showtime_id": "ST404",
+  "cinema_id": "R001",
+  "movie_id": "MV002",
+  "room_id": 4,
+  "date": "2025-04-06",
+  "time": "15:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575865b"
+  },
+  "showtime_id": "ST405",
+  "cinema_id": "R002",
+  "movie_id": "MV008",
+  "room_id": 3,
+  "date": "2025-04-05",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575865c"
+  },
+  "showtime_id": "ST406",
+  "cinema_id": "R007",
+  "movie_id": "MV002",
+  "room_id": 3,
+  "date": "2025-04-07",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575865d"
+  },
+  "showtime_id": "ST407",
+  "cinema_id": "R007",
+  "movie_id": "MV006",
+  "room_id": 2,
+  "date": "2025-04-06",
+  "time": "18:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575865e"
+  },
+  "showtime_id": "ST408",
+  "cinema_id": "R006",
+  "movie_id": "MV003",
+  "room_id": 2,
+  "date": "2025-04-07",
+  "time": "22:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575865f"
+  },
+  "showtime_id": "ST409",
+  "cinema_id": "R006",
+  "movie_id": "MV001",
+  "room_id": 1,
+  "date": "2025-04-03",
+  "time": "14:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758660"
+  },
+  "showtime_id": "ST410",
+  "cinema_id": "R001",
+  "movie_id": "MV005",
+  "room_id": 3,
+  "date": "2025-04-05",
+  "time": "22:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758661"
+  },
+  "showtime_id": "ST411",
+  "cinema_id": "R004",
+  "movie_id": "MV008",
+  "room_id": 5,
+  "date": "2025-04-05",
+  "time": "16:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758662"
+  },
+  "showtime_id": "ST412",
+  "cinema_id": "R003",
+  "movie_id": "MV003",
+  "room_id": 4,
+  "date": "2025-04-07",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758663"
+  },
+  "showtime_id": "ST413",
+  "cinema_id": "R006",
+  "movie_id": "MV003",
+  "room_id": 1,
+  "date": "2025-04-07",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758664"
+  },
+  "showtime_id": "ST414",
+  "cinema_id": "R002",
+  "movie_id": "MV002",
+  "room_id": 2,
+  "date": "2025-04-01",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758665"
+  },
+  "showtime_id": "ST415",
+  "cinema_id": "R006",
+  "movie_id": "MV004",
+  "room_id": 4,
+  "date": "2025-04-03",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758666"
+  },
+  "showtime_id": "ST416",
+  "cinema_id": "R004",
+  "movie_id": "MV001",
+  "room_id": 6,
+  "date": "2025-04-03",
+  "time": "10:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758667"
+  },
+  "showtime_id": "ST417",
+  "cinema_id": "R002",
+  "movie_id": "MV005",
+  "room_id": 1,
+  "date": "2025-04-06",
+  "time": "16:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758668"
+  },
+  "showtime_id": "ST418",
+  "cinema_id": "R004",
+  "movie_id": "MV008",
+  "room_id": 1,
+  "date": "2025-04-03",
+  "time": "11:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758669"
+  },
+  "showtime_id": "ST419",
+  "cinema_id": "R001",
+  "movie_id": "MV005",
+  "room_id": 1,
+  "date": "2025-04-03",
+  "time": "11:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575866a"
+  },
+  "showtime_id": "ST420",
+  "cinema_id": "R003",
+  "movie_id": "MV002",
+  "room_id": 4,
+  "date": "2025-04-02",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575866b"
+  },
+  "showtime_id": "ST421",
+  "cinema_id": "R005",
+  "movie_id": "MV005",
+  "room_id": 3,
+  "date": "2025-04-05",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575866c"
+  },
+  "showtime_id": "ST422",
+  "cinema_id": "R005",
+  "movie_id": "MV007",
+  "room_id": 4,
+  "date": "2025-04-01",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575866d"
+  },
+  "showtime_id": "ST423",
+  "cinema_id": "R006",
+  "movie_id": "MV005",
+  "room_id": 3,
+  "date": "2025-04-04",
+  "time": "11:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575866e"
+  },
+  "showtime_id": "ST424",
+  "cinema_id": "R001",
+  "movie_id": "MV001",
+  "room_id": 2,
+  "date": "2025-04-04",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575866f"
+  },
+  "showtime_id": "ST425",
+  "cinema_id": "R004",
+  "movie_id": "MV006",
+  "room_id": 3,
+  "date": "2025-04-06",
+  "time": "11:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758670"
+  },
+  "showtime_id": "ST426",
+  "cinema_id": "R005",
+  "movie_id": "MV007",
+  "room_id": 1,
+  "date": "2025-04-04",
+  "time": "15:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758671"
+  },
+  "showtime_id": "ST427",
+  "cinema_id": "R004",
+  "movie_id": "MV002",
+  "room_id": 4,
+  "date": "2025-04-02",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758672"
+  },
+  "showtime_id": "ST428",
+  "cinema_id": "R004",
+  "movie_id": "MV002",
+  "room_id": 5,
+  "date": "2025-04-05",
+  "time": "18:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758673"
+  },
+  "showtime_id": "ST429",
+  "cinema_id": "R004",
+  "movie_id": "MV006",
+  "room_id": 4,
+  "date": "2025-04-05",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758674"
+  },
+  "showtime_id": "ST430",
+  "cinema_id": "R002",
+  "movie_id": "MV006",
+  "room_id": 1,
+  "date": "2025-04-05",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758675"
+  },
+  "showtime_id": "ST431",
+  "cinema_id": "R002",
+  "movie_id": "MV005",
+  "room_id": 1,
+  "date": "2025-04-06",
+  "time": "19:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758676"
+  },
+  "showtime_id": "ST432",
+  "cinema_id": "R007",
+  "movie_id": "MV004",
+  "room_id": 1,
+  "date": "2025-04-07",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758677"
+  },
+  "showtime_id": "ST433",
+  "cinema_id": "R006",
+  "movie_id": "MV001",
+  "room_id": 2,
+  "date": "2025-04-05",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758678"
+  },
+  "showtime_id": "ST434",
+  "cinema_id": "R006",
+  "movie_id": "MV003",
+  "room_id": 2,
+  "date": "2025-04-06",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758679"
+  },
+  "showtime_id": "ST435",
+  "cinema_id": "R004",
+  "movie_id": "MV008",
+  "room_id": 1,
+  "date": "2025-04-06",
+  "time": "18:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575867a"
+  },
+  "showtime_id": "ST436",
+  "cinema_id": "R005",
+  "movie_id": "MV006",
+  "room_id": 2,
+  "date": "2025-04-05",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575867b"
+  },
+  "showtime_id": "ST437",
+  "cinema_id": "R005",
+  "movie_id": "MV007",
+  "room_id": 2,
+  "date": "2025-04-03",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575867c"
+  },
+  "showtime_id": "ST438",
+  "cinema_id": "R002",
+  "movie_id": "MV006",
+  "room_id": 5,
+  "date": "2025-04-01",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575867d"
+  },
+  "showtime_id": "ST439",
+  "cinema_id": "R007",
+  "movie_id": "MV002",
+  "room_id": 2,
+  "date": "2025-04-03",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575867e"
+  },
+  "showtime_id": "ST440",
+  "cinema_id": "R005",
+  "movie_id": "MV007",
+  "room_id": 1,
+  "date": "2025-04-07",
+  "time": "15:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575867f"
+  },
+  "showtime_id": "ST441",
+  "cinema_id": "R005",
+  "movie_id": "MV007",
+  "room_id": 2,
+  "date": "2025-04-01",
+  "time": "15:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758680"
+  },
+  "showtime_id": "ST442",
+  "cinema_id": "R007",
+  "movie_id": "MV001",
+  "room_id": 3,
+  "date": "2025-04-04",
+  "time": "17:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758681"
+  },
+  "showtime_id": "ST443",
+  "cinema_id": "R004",
+  "movie_id": "MV004",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758682"
+  },
+  "showtime_id": "ST444",
+  "cinema_id": "R006",
+  "movie_id": "MV002",
+  "room_id": 1,
+  "date": "2025-04-06",
+  "time": "18:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758683"
+  },
+  "showtime_id": "ST445",
+  "cinema_id": "R007",
+  "movie_id": "MV002",
+  "room_id": 3,
+  "date": "2025-04-05",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758684"
+  },
+  "showtime_id": "ST446",
+  "cinema_id": "R001",
+  "movie_id": "MV004",
+  "room_id": 4,
+  "date": "2025-04-02",
+  "time": "17:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758685"
+  },
+  "showtime_id": "ST447",
+  "cinema_id": "R005",
+  "movie_id": "MV008",
+  "room_id": 2,
+  "date": "2025-04-06",
+  "time": "11:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758686"
+  },
+  "showtime_id": "ST448",
+  "cinema_id": "R003",
+  "movie_id": "MV006",
+  "room_id": 1,
+  "date": "2025-04-04",
+  "time": "22:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758687"
+  },
+  "showtime_id": "ST449",
+  "cinema_id": "R003",
+  "movie_id": "MV001",
+  "room_id": 5,
+  "date": "2025-04-05",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758688"
+  },
+  "showtime_id": "ST450",
+  "cinema_id": "R007",
+  "movie_id": "MV007",
+  "room_id": 1,
+  "date": "2025-04-04",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758689"
+  },
+  "showtime_id": "ST451",
+  "cinema_id": "R004",
+  "movie_id": "MV004",
+  "room_id": 4,
+  "date": "2025-04-02",
+  "time": "14:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575868a"
+  },
+  "showtime_id": "ST452",
+  "cinema_id": "R003",
+  "movie_id": "MV002",
+  "room_id": 6,
+  "date": "2025-04-01",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575868b"
+  },
+  "showtime_id": "ST453",
+  "cinema_id": "R003",
+  "movie_id": "MV003",
+  "room_id": 1,
+  "date": "2025-04-02",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575868c"
+  },
+  "showtime_id": "ST454",
+  "cinema_id": "R005",
+  "movie_id": "MV004",
+  "room_id": 1,
+  "date": "2025-04-07",
+  "time": "18:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575868d"
+  },
+  "showtime_id": "ST455",
+  "cinema_id": "R004",
+  "movie_id": "MV008",
+  "room_id": 4,
+  "date": "2025-04-02",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575868e"
+  },
+  "showtime_id": "ST456",
+  "cinema_id": "R007",
+  "movie_id": "MV007",
+  "room_id": 4,
+  "date": "2025-04-01",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575868f"
+  },
+  "showtime_id": "ST457",
+  "cinema_id": "R006",
+  "movie_id": "MV008",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "22:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758690"
+  },
+  "showtime_id": "ST458",
+  "cinema_id": "R004",
+  "movie_id": "MV005",
+  "room_id": 4,
+  "date": "2025-04-07",
+  "time": "19:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758691"
+  },
+  "showtime_id": "ST459",
+  "cinema_id": "R005",
+  "movie_id": "MV004",
+  "room_id": 1,
+  "date": "2025-04-02",
+  "time": "15:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758692"
+  },
+  "showtime_id": "ST460",
+  "cinema_id": "R001",
+  "movie_id": "MV003",
+  "room_id": 4,
+  "date": "2025-04-05",
+  "time": "17:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758693"
+  },
+  "showtime_id": "ST461",
+  "cinema_id": "R005",
+  "movie_id": "MV006",
+  "room_id": 4,
+  "date": "2025-04-06",
+  "time": "11:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758694"
+  },
+  "showtime_id": "ST462",
+  "cinema_id": "R001",
+  "movie_id": "MV003",
+  "room_id": 5,
+  "date": "2025-04-02",
+  "time": "20:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758695"
+  },
+  "showtime_id": "ST463",
+  "cinema_id": "R006",
+  "movie_id": "MV001",
+  "room_id": 2,
+  "date": "2025-04-06",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758696"
+  },
+  "showtime_id": "ST464",
+  "cinema_id": "R002",
+  "movie_id": "MV005",
+  "room_id": 1,
+  "date": "2025-04-07",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758697"
+  },
+  "showtime_id": "ST465",
+  "cinema_id": "R006",
+  "movie_id": "MV003",
+  "room_id": 3,
+  "date": "2025-04-07",
+  "time": "12:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758698"
+  },
+  "showtime_id": "ST466",
+  "cinema_id": "R006",
+  "movie_id": "MV004",
+  "room_id": 4,
+  "date": "2025-04-07",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f5758699"
+  },
+  "showtime_id": "ST467",
+  "cinema_id": "R006",
+  "movie_id": "MV005",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "13:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575869a"
+  },
+  "showtime_id": "ST468",
+  "cinema_id": "R003",
+  "movie_id": "MV007",
+  "room_id": 2,
+  "date": "2025-04-07",
+  "time": "15:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575869b"
+  },
+  "showtime_id": "ST469",
+  "cinema_id": "R007",
+  "movie_id": "MV006",
+  "room_id": 4,
+  "date": "2025-04-01",
+  "time": "16:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575869c"
+  },
+  "showtime_id": "ST470",
+  "cinema_id": "R006",
+  "movie_id": "MV005",
+  "room_id": 2,
+  "date": "2025-04-02",
+  "time": "15:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575869d"
+  },
+  "showtime_id": "ST471",
+  "cinema_id": "R005",
+  "movie_id": "MV003",
+  "room_id": 5,
+  "date": "2025-04-01",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575869e"
+  },
+  "showtime_id": "ST472",
+  "cinema_id": "R002",
+  "movie_id": "MV005",
+  "room_id": 7,
+  "date": "2025-04-02",
+  "time": "12:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f575869f"
+  },
+  "showtime_id": "ST473",
+  "cinema_id": "R001",
+  "movie_id": "MV007",
+  "room_id": 3,
+  "date": "2025-04-02",
+  "time": "14:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586a0"
+  },
+  "showtime_id": "ST474",
+  "cinema_id": "R004",
+  "movie_id": "MV008",
+  "room_id": 6,
+  "date": "2025-04-07",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586a1"
+  },
+  "showtime_id": "ST475",
+  "cinema_id": "R007",
+  "movie_id": "MV007",
+  "room_id": 1,
+  "date": "2025-04-02",
+  "time": "19:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586a2"
+  },
+  "showtime_id": "ST476",
+  "cinema_id": "R005",
+  "movie_id": "MV002",
+  "room_id": 4,
+  "date": "2025-04-03",
+  "time": "10:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586a3"
+  },
+  "showtime_id": "ST477",
+  "cinema_id": "R001",
+  "movie_id": "MV004",
+  "room_id": 3,
+  "date": "2025-04-05",
+  "time": "11:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586a4"
+  },
+  "showtime_id": "ST478",
+  "cinema_id": "R006",
+  "movie_id": "MV002",
+  "room_id": 2,
+  "date": "2025-04-03",
+  "time": "16:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586a5"
+  },
+  "showtime_id": "ST479",
+  "cinema_id": "R007",
+  "movie_id": "MV007",
+  "room_id": 3,
+  "date": "2025-04-07",
+  "time": "12:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586a6"
+  },
+  "showtime_id": "ST480",
+  "cinema_id": "R006",
+  "movie_id": "MV004",
+  "room_id": 1,
+  "date": "2025-04-03",
+  "time": "22:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586a7"
+  },
+  "showtime_id": "ST481",
+  "cinema_id": "R001",
+  "movie_id": "MV006",
+  "room_id": 4,
+  "date": "2025-04-03",
+  "time": "15:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586a8"
+  },
+  "showtime_id": "ST482",
+  "cinema_id": "R006",
+  "movie_id": "MV003",
+  "room_id": 1,
+  "date": "2025-04-02",
+  "time": "17:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586a9"
+  },
+  "showtime_id": "ST483",
+  "cinema_id": "R003",
+  "movie_id": "MV007",
+  "room_id": 4,
+  "date": "2025-04-06",
+  "time": "19:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586aa"
+  },
+  "showtime_id": "ST484",
+  "cinema_id": "R006",
+  "movie_id": "MV008",
+  "room_id": 2,
+  "date": "2025-04-04",
+  "time": "13:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586ab"
+  },
+  "showtime_id": "ST485",
+  "cinema_id": "R005",
+  "movie_id": "MV004",
+  "room_id": 4,
+  "date": "2025-04-07",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586ac"
+  },
+  "showtime_id": "ST486",
+  "cinema_id": "R004",
+  "movie_id": "MV002",
+  "room_id": 4,
+  "date": "2025-04-02",
+  "time": "20:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586ad"
+  },
+  "showtime_id": "ST487",
+  "cinema_id": "R001",
+  "movie_id": "MV007",
+  "room_id": 4,
+  "date": "2025-04-01",
+  "time": "15:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586ae"
+  },
+  "showtime_id": "ST488",
+  "cinema_id": "R001",
+  "movie_id": "MV005",
+  "room_id": 1,
+  "date": "2025-04-07",
+  "time": "19:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586af"
+  },
+  "showtime_id": "ST489",
+  "cinema_id": "R001",
+  "movie_id": "MV001",
+  "room_id": 1,
+  "date": "2025-04-04",
+  "time": "19:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586b0"
+  },
+  "showtime_id": "ST490",
+  "cinema_id": "R003",
+  "movie_id": "MV005",
+  "room_id": 4,
+  "date": "2025-04-04",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586b1"
+  },
+  "showtime_id": "ST491",
+  "cinema_id": "R002",
+  "movie_id": "MV001",
+  "room_id": 4,
+  "date": "2025-04-02",
+  "time": "15:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586b2"
+  },
+  "showtime_id": "ST492",
+  "cinema_id": "R007",
+  "movie_id": "MV002",
+  "room_id": 2,
+  "date": "2025-04-02",
+  "time": "17:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586b3"
+  },
+  "showtime_id": "ST493",
+  "cinema_id": "R001",
+  "movie_id": "MV003",
+  "room_id": 4,
+  "date": "2025-04-03",
+  "time": "22:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586b4"
+  },
+  "showtime_id": "ST494",
+  "cinema_id": "R006",
+  "movie_id": "MV008",
+  "room_id": 2,
+  "date": "2025-04-05",
+  "time": "12:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586b5"
+  },
+  "showtime_id": "ST495",
+  "cinema_id": "R002",
+  "movie_id": "MV003",
+  "room_id": 6,
+  "date": "2025-04-04",
+  "time": "21:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586b6"
+  },
+  "showtime_id": "ST496",
+  "cinema_id": "R001",
+  "movie_id": "MV003",
+  "room_id": 2,
+  "date": "2025-04-03",
+  "time": "22:00"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586b7"
+  },
+  "showtime_id": "ST497",
+  "cinema_id": "R005",
+  "movie_id": "MV002",
+  "room_id": 4,
+  "date": "2025-04-04",
+  "time": "22:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586b8"
+  },
+  "showtime_id": "ST498",
+  "cinema_id": "R002",
+  "movie_id": "MV004",
+  "room_id": 4,
+  "date": "2025-04-04",
+  "time": "19:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586b9"
+  },
+  "showtime_id": "ST499",
+  "cinema_id": "R001",
+  "movie_id": "MV006",
+  "room_id": 1,
+  "date": "2025-04-06",
+  "time": "21:30"
+},
+{
+  "_id": {
+    "$oid": "67d7ae9e8da71600f57586ba"
+  },
+  "showtime_id": "ST500",
+  "cinema_id": "R003",
+  "movie_id": "MV003",
+  "room_id": 2,
+  "date": "2025-04-05",
+  "time": "12:30"
+}]

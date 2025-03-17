@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "67d68019344ac2ea5949e644"
+  },
+  "movie_id": "MV001",
+  "name": "Flow",
+  "release_date": "2023-06-12",
+  "genre": "Hành động",
+  "status": "On-air",
+  "description": "Một bộ phim hành động kịch tính về cuộc sống của một võ sĩ đường phố."
+},
+{
+  "_id": {
+    "$oid": "67d68019344ac2ea5949e645"
+  },
+  "movie_id": "MV002",
+  "name": "Nhà Gia Tiên",
+  "release_date": "2022-09-15",
+  "genre": "Kinh dị",
+  "status": "On-air",
+  "description": "Câu chuyện rùng rợn về một gia đình bị ám bởi những linh hồn tổ tiên."
+},
+{
+  "_id": {
+    "$oid": "67d68019344ac2ea5949e646"
+  },
+  "movie_id": "MV003",
+  "name": "Interstellar",
+  "release_date": "2014-11-07",
+  "genre": "Khoa học viễn tưởng",
+  "status": "On-air",
+  "description": "Một hành trình xuyên không gian để tìm kiếm hành tinh có thể sinh sống."
+},
+{
+  "_id": {
+    "$oid": "67d68019344ac2ea5949e647"
+  },
+  "movie_id": "MV004",
+  "name": "Quỷ Nhập Tràng",
+  "release_date": "2021-10-31",
+  "genre": "Kinh dị",
+  "status": "Tạm ngừng",
+  "description": "Một vụ án bí ẩn về hiện tượng quỷ nhập tràng gây chấn động cả vùng quê."
+},
+{
+  "_id": {
+    "$oid": "67d68019344ac2ea5949e648"
+  },
+  "movie_id": "MV005",
+  "name": "Cưới Ma: Hiến Mẹ Cho Quỷ",
+  "release_date": "2023-02-14",
+  "genre": "Kinh dị",
+  "status": "On-air",
+  "description": "Một câu chuyện ma quái về hủ tục cưới ma và những thế lực tà ác."
+},
+{
+  "_id": {
+    "$oid": "67d68019344ac2ea5949e649"
+  },
+  "movie_id": "MV006",
+  "name": "Nữ Tu Bóng Tối",
+  "release_date": "2018-09-07",
+  "genre": "Kinh dị",
+  "status": "Tạm ngừng",
+  "description": "Câu chuyện rùng rợn về một nữ tu sĩ bị ám bởi thế lực ma quái."
+},
+{
+  "_id": {
+    "$oid": "67d68019344ac2ea5949e64a"
+  },
+  "movie_id": "MV007",
+  "name": "Attack on Titan",
+  "release_date": "2013-04-06",
+  "genre": "Hoạt hình",
+  "status": "On-air",
+  "description": "Cuộc chiến sinh tồn giữa nhân loại và những Titan khổng lồ đáng sợ."
+},
+{
+  "_id": {
+    "$oid": "67d68019344ac2ea5949e64b"
+  },
+  "movie_id": "MV008",
+  "name": "Nụ Hôn Bạc Tỷ",
+  "release_date": "2020-12-25",
+  "genre": "Lãng mạn",
+  "status": "Tạm ngừng",
+  "description": "Một câu chuyện tình lãng mạn giữa cô gái nghèo và chàng trai tỷ phú."
+}]

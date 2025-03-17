@@ -1,0 +1,400 @@
+[{
+  "_id": "67d68a15344ac2ea5949e651",
+  "employee_id": "NV001",
+  "name": "Nhân viên 1",
+  "position": "Nhân viên bán hàng",
+  "salary": 11000000,
+  "status": "Đã nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e652",
+  "employee_id": "NV002",
+  "name": "Nhân viên 2",
+  "position": "Nhân viên kỹ thuật",
+  "salary": 12000000,
+  "status": "Đang làm"
+},
+{
+  "_id": "67d68a15344ac2ea5949e653",
+  "employee_id": "NV003",
+  "name": "Nhân viên 3",
+  "position": "Nhân viên kế toán",
+  "salary": 13000000,
+  "status": "Tạm nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e654",
+  "employee_id": "NV004",
+  "name": "Nhân viên 4",
+  "position": "Quản lý",
+  "salary": 14000000,
+  "status": "Đang làm"
+},
+{
+  "_id": "67d68a15344ac2ea5949e655",
+  "employee_id": "NV005",
+  "name": "Nhân viên 5",
+  "position": "Nhân viên bán hàng",
+  "salary": 10000000,
+  "status": "Đã nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e656",
+  "employee_id": "NV006",
+  "name": "Nhân viên 6",
+  "position": "Nhân viên kỹ thuật",
+  "salary": 11000000,
+  "status": "Đang làm"
+},
+{
+  "_id": "67d68a15344ac2ea5949e657",
+  "employee_id": "NV007",
+  "name": "Nhân viên 7",
+  "position": "Nhân viên kế toán",
+  "salary": 12000000,
+  "status": "Tạm nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e658",
+  "employee_id": "NV008",
+  "name": "Nhân viên 8",
+  "position": "Quản lý",
+  "salary": 13000000,
+  "status": "Đang làm"
+},
+{
+  "_id": "67d68a15344ac2ea5949e659",
+  "employee_id": "NV009",
+  "name": "Nhân viên 9",
+  "position": "Nhân viên bán hàng",
+  "salary": 14000000,
+  "status": "Tạm nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e660",
+  "employee_id": "NV010",
+  "name": "Nhân viên 10",
+  "position": "Nhân viên kỹ thuật",
+  "salary": 10000000,
+  "status": "Đã nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e661",
+  "employee_id": "NV011",
+  "name": "Nhân viên 11",
+  "position": "Nhân viên kế toán",
+  "salary": 11000000,
+  "status": "Tạm nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e662",
+  "employee_id": "NV012",
+  "name": "Nhân viên 12",
+  "position": "Quản lý",
+  "salary": 12000000,
+  "status": "Đang làm"
+},
+{
+  "_id": "67d68a15344ac2ea5949e663",
+  "employee_id": "NV013",
+  "name": "Nhân viên 13",
+  "position": "Nhân viên bán hàng",
+  "salary": 13000000,
+  "status": "Đã nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e664",
+  "employee_id": "NV014",
+  "name": "Nhân viên 14",
+  "position": "Nhân viên kỹ thuật",
+  "salary": 14000000,
+  "status": "Đang làm"
+},
+{
+  "_id": "67d68a15344ac2ea5949e665",
+  "employee_id": "NV015",
+  "name": "Nhân viên 15",
+  "position": "Nhân viên kế toán",
+  "salary": 10000000,
+  "status": "Tạm nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e666",
+  "employee_id": "NV016",
+  "name": "Nhân viên 16",
+  "position": "Quản lý",
+  "salary": 11000000,
+  "status": "Đang làm"
+},
+{
+  "_id": "67d68a15344ac2ea5949e667",
+  "employee_id": "NV017",
+  "name": "Nhân viên 17",
+  "position": "Nhân viên bán hàng",
+  "salary": 12000000,
+  "status": "Tạm nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e668",
+  "employee_id": "NV018",
+  "name": "Nhân viên 18",
+  "position": "Nhân viên kỹ thuật",
+  "salary": 13000000,
+  "status": "Đang làm"
+},
+{
+  "_id": "67d68a15344ac2ea5949e669",
+  "employee_id": "NV019",
+  "name": "Nhân viên 19",
+  "position": "Nhân viên kế toán",
+  "salary": 14000000,
+  "status": "Tạm nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e670",
+  "employee_id": "NV020",
+  "name": "Nhân viên 20",
+  "position": "Quản lý",
+  "salary": 10000000,
+  "status": "Đã nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e671",
+  "employee_id": "NV021",
+  "name": "Nhân viên 21",
+  "position": "Nhân viên bán hàng",
+  "salary": 11000000,
+  "status": "Tạm nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e672",
+  "employee_id": "NV022",
+  "name": "Nhân viên 22",
+  "position": "Nhân viên kỹ thuật",
+  "salary": 12000000,
+  "status": "Đã nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e673",
+  "employee_id": "NV023",
+  "name": "Nhân viên 23",
+  "position": "Nhân viên kế toán",
+  "salary": 13000000,
+  "status": "Tạm nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e674",
+  "employee_id": "NV024",
+  "name": "Nhân viên 24",
+  "position": "Quản lý",
+  "salary": 14000000,
+  "status": "Đang làm"
+},
+{
+  "_id": "67d68a15344ac2ea5949e675",
+  "employee_id": "NV025",
+  "name": "Nhân viên 25",
+  "position": "Nhân viên bán hàng",
+  "salary": 10000000,
+  "status": "Tạm nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e676",
+  "employee_id": "NV026",
+  "name": "Nhân viên 26",
+  "position": "Nhân viên kỹ thuật",
+  "salary": 11000000,
+  "status": "Đang làm"
+},
+{
+  "_id": "67d68a15344ac2ea5949e677",
+  "employee_id": "NV027",
+  "name": "Nhân viên 27",
+  "position": "Nhân viên kế toán",
+  "salary": 12000000,
+  "status": "Tạm nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e678",
+  "employee_id": "NV028",
+  "name": "Nhân viên 28",
+  "position": "Quản lý",
+  "salary": 13000000,
+  "status": "Đang làm"
+},
+{
+  "_id": "67d68a15344ac2ea5949e679",
+  "employee_id": "NV029",
+  "name": "Nhân viên 29",
+  "position": "Nhân viên bán hàng",
+  "salary": 14000000,
+  "status": "Tạm nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e680",
+  "employee_id": "NV030",
+  "name": "Nhân viên 30",
+  "position": "Nhân viên kỹ thuật",
+  "salary": 10000000,
+  "status": "Đang làm"
+},
+{
+  "_id": "67d68a15344ac2ea5949e681",
+  "employee_id": "NV031",
+  "name": "Nhân viên 31",
+  "position": "Nhân viên kế toán",
+  "salary": 11000000,
+  "status": "Tạm nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e682",
+  "employee_id": "NV032",
+  "name": "Nhân viên 32",
+  "position": "Quản lý",
+  "salary": 12000000,
+  "status": "Đang làm"
+},
+{
+  "_id": "67d68a15344ac2ea5949e683",
+  "employee_id": "NV033",
+  "name": "Nhân viên 33",
+  "position": "Nhân viên bán hàng",
+  "salary": 13000000,
+  "status": "Đã nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e684",
+  "employee_id": "NV034",
+  "name": "Nhân viên 34",
+  "position": "Nhân viên kỹ thuật",
+  "salary": 14000000,
+  "status": "Đang làm"
+},
+{
+  "_id": "67d68a15344ac2ea5949e685",
+  "employee_id": "NV035",
+  "name": "Nhân viên 35",
+  "position": "Nhân viên kế toán",
+  "salary": 10000000,
+  "status": "Đã nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e686",
+  "employee_id": "NV036",
+  "name": "Nhân viên 36",
+  "position": "Quản lý",
+  "salary": 11000000,
+  "status": "Đang làm"
+},
+{
+  "_id": "67d68a15344ac2ea5949e687",
+  "employee_id": "NV037",
+  "name": "Nhân viên 37",
+  "position": "Nhân viên bán hàng",
+  "salary": 12000000,
+  "status": "Đã nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e688",
+  "employee_id": "NV038",
+  "name": "Nhân viên 38",
+  "position": "Nhân viên kỹ thuật",
+  "salary": 13000000,
+  "status": "Đang làm"
+},
+{
+  "_id": "67d68a15344ac2ea5949e689",
+  "employee_id": "NV039",
+  "name": "Nhân viên 39",
+  "position": "Nhân viên kế toán",
+  "salary": 14000000,
+  "status": "Tạm nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e690",
+  "employee_id": "NV040",
+  "name": "Nhân viên 40",
+  "position": "Quản lý",
+  "salary": 10000000,
+  "status": "Đã nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e691",
+  "employee_id": "NV041",
+  "name": "Nhân viên 41",
+  "position": "Nhân viên bán hàng",
+  "salary": 11000000,
+  "status": "Tạm nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e692",
+  "employee_id": "NV042",
+  "name": "Nhân viên 42",
+  "position": "Nhân viên kỹ thuật",
+  "salary": 12000000,
+  "status": "Đang làm"
+},
+{
+  "_id": "67d68a15344ac2ea5949e693",
+  "employee_id": "NV043",
+  "name": "Nhân viên 43",
+  "position": "Nhân viên kế toán",
+  "salary": 13000000,
+  "status": "Tạm nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e694",
+  "employee_id": "NV044",
+  "name": "Nhân viên 44",
+  "position": "Quản lý",
+  "salary": 14000000,
+  "status": "Đang làm"
+},
+{
+  "_id": "67d68a15344ac2ea5949e695",
+  "employee_id": "NV045",
+  "name": "Nhân viên 45",
+  "position": "Nhân viên bán hàng",
+  "salary": 10000000,
+  "status": "Tạm nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e696",
+  "employee_id": "NV046",
+  "name": "Nhân viên 46",
+  "position": "Nhân viên kỹ thuật",
+  "salary": 11000000,
+  "status": "Đang làm"
+},
+{
+  "_id": "67d68a15344ac2ea5949e697",
+  "employee_id": "NV047",
+  "name": "Nhân viên 47",
+  "position": "Nhân viên kế toán",
+  "salary": 12000000,
+  "status": "Tạm nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e698",
+  "employee_id": "NV048",
+  "name": "Nhân viên 48",
+  "position": "Quản lý",
+  "salary": 13000000,
+  "status": "Đang làm"
+},
+{
+  "_id": "67d68a15344ac2ea5949e699",
+  "employee_id": "NV049",
+  "name": "Nhân viên 49",
+  "position": "Nhân viên bán hàng",
+  "salary": 14000000,
+  "status": "Tạm nghỉ"
+},
+{
+  "_id": "67d68a15344ac2ea5949e6100",
+  "employee_id": "NV050",
+  "name": "Nhân viên 50",
+  "position": "Nhân viên kỹ thuật",
+  "salary": 10000000,
+  "status": "Đang làm"
+}]
