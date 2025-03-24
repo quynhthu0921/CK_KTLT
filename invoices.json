@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "67e0dcf370fdcc12f1d3442f"
+  },
+  "ten": "Phương",
+  "email": "thuphuongdangha@gmail.com",
+  "rap": "CGV Gigamall",
+  "phim": "Nhà gia tiên",
+  "suatchieu": "30/03/2024 20:00",
+  "sove": 2,
+  "loaighe": "VIP",
+  "soghe": [
+    "9A",
+    "9B"
+  ],
+  "dongiave": 60000,
+  "combobapnuoc": "Ờ lon 59k",
+  "soluongcombo": 2,
+  "dongiacombo": 59000
+},
+{
+  "_id": {
+    "$oid": "67e0dcf370fdcc12f1d34430"
+  },
+  "ten": "Mỹ",
+  "email": "phuongdht23416@st.uel.edu.vn",
+  "rap": "CGV Gigamall",
+  "phim": "Nhà gia tiên",
+  "suatchieu": "30/03/2024 20:00",
+  "sove": 2,
+  "loaighe": "Thường",
+  "soghe": [
+    "10A",
+    "10B"
+  ],
+  "dongiave": 45000,
+  "combobapnuoc": "Ờ lon 59k",
+  "soluongcombo": 2,
+  "dongiacombo": 59000
+}]

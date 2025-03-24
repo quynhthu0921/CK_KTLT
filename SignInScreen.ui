@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1500</width>
+    <height>900</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label_Backrough">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>1500</width>
+      <height>900</height>
+     </rect>
+    </property>
+    <property name="toolTipDuration">
+     <number>0</number>
+    </property>
+    <property name="lineWidth">
+     <number>0</number>
+    </property>
+    <property name="midLineWidth">
+     <number>-1</number>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>Pictures/Backrough.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>80</y>
+      <width>1400</width>
+      <height>90</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>20</pointsize>
+      <weight>75</weight>
+      <italic>false</italic>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>ĐĂNG KÝ TÀI KHOẢN</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_HoDemTen">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>210</y>
+      <width>380</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="readOnly">
+     <bool>false</bool>
+    </property>
+    <property name="placeholderText">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_9">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>350</y>
+      <width>130</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <italic>false</italic>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Mật khẩu *</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_NhapLaiMatKhau">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>390</y>
+      <width>380</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="echoMode">
+     <enum>QLineEdit::Password</enum>
+    </property>
+    <property name="placeholderText">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_12">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>440</y>
+      <width>120</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <italic>false</italic>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Ngày sinh *</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_DangKy">
+    <property name="geometry">
+     <rect>
+      <x>610</x>
+      <y>630</y>
+      <width>231</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 0, 0);
+</string>
+    </property>
+    <property name="text">
+     <string>Đăng ký</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_Ten">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>210</y>
+      <width>380</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="readOnly">
+     <bool>false</bool>
+    </property>
+    <property name="placeholderText">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_7">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>170</y>
+      <width>180</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <italic>false</italic>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Họ và tên đệm *</string>
+    </property>
+   </widget>
+   <widget class="QDateEdit" name="dateEdit_Nam">
+    <property name="geometry">
+     <rect>
+      <x>1080</x>
+      <y>480</y>
+      <width>100</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <italic>true</italic>
+     </font>
+    </property>
+    <property name="displayFormat">
+     <string>yyyy</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_6">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>260</y>
+      <width>130</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <italic>false</italic>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Giới tính *</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_8">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>260</y>
+      <width>150</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <italic>false</italic>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Địa chỉ email *</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_DangNhap_DK">
+    <property name="geometry">
+     <rect>
+      <x>610</x>
+      <y>720</y>
+      <width>231</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 255, 0);</string>
+    </property>
+    <property name="text">
+     <string>Đăng nhập</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="checkBox_NhanThongBao">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>570</y>
+      <width>400</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <italic>true</italic>
+      <underline>true</underline>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Nhận thông tin về các chương trình khuyến mãi</string>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>16</width>
+      <height>22</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_15">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>530</y>
+      <width>150</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <italic>false</italic>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Tỉnh/ Thành phố *</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="comboBox_TinhThanhPho">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>570</y>
+      <width>381</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>13</pointsize>
+     </font>
+    </property>
+    <property name="accessibleDescription">
+     <string>dgdgdfg</string>
+    </property>
+    <property name="editable">
+     <bool>false</bool>
+    </property>
+    <item>
+     <property name="text">
+      <string>TP. Hồ Chí Minh</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Hà Nội</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>An Giang</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Bà Rịa-Vũng Tàu</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Bạc Liêu</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Bắc Kạn</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Bắc Giang</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Bắc Ninh</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Bến Tre</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Bình Dương</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Bình Định</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Bình Phước</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Bình Thuận</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Cà Mau</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Cao Bằng</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Đà Nẵng</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Đắk Lắk</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Đắk Nông</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Điện Biên</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Đồng Nai</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Đồng Tháp</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Gia Lai</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Hà Nam</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Hà Tĩnh</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Hải Dương</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Hải Phòng</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Hậu Giang</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Hòa Bình</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Hưng Yên</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Khánh Hòa</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Kiên Giang</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Kon Tum</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Lai Châu</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Lâm Đồng</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Lạng Sơn</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Lào Cai</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Long An</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Nam Định</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Nghệ An</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Ninh Bình</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Ninh Thuận</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Phú Thọ</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Phú Yên</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Quảng Bình</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Quảng Nam</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Quảng Ngãi</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Quảng Ninh</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Quảng Trị</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Sóc Trăng</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Sơn La</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Tây Ninh</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Thái Bình</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Thái Nguyên</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Thanh Hóa</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Thừa Thiên - Huế</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Tiền Giang</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Trà Vinh</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Tuyên Quang</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Vĩnh Long</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Vĩnh Phúc</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Yên Bái</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_MatKhau_DK">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>390</y>
+      <width>380</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="echoMode">
+     <enum>QLineEdit::Password</enum>
+    </property>
+    <property name="placeholderText">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_13">
+    <property name="geometry">
+     <rect>
+      <x>940</x>
+      <y>440</y>
+      <width>120</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <italic>false</italic>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Tháng sinh *</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_11">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>350</y>
+      <width>160</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <italic>false</italic>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Nhập lại mật khẩu *</string>
+    </property>
+   </widget>
+   <widget class="QDateEdit" name="dateEdit_Thang">
+    <property name="geometry">
+     <rect>
+      <x>940</x>
+      <y>480</y>
+      <width>70</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <italic>true</italic>
+     </font>
+    </property>
+    <property name="displayFormat">
+     <string>MM</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="radioButton_Nam">
+    <property name="geometry">
+     <rect>
+      <x>390</x>
+      <y>300</y>
+      <width>90</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <italic>true</italic>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Nam</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_SoDienThoai">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>480</y>
+      <width>380</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="echoMode">
+     <enum>QLineEdit::Normal</enum>
+    </property>
+    <property name="placeholderText">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QDateEdit" name="dateEdit_Ngay">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>480</y>
+      <width>70</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <italic>true</italic>
+     </font>
+    </property>
+    <property name="displayFormat">
+     <string>dd</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_10">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>440</y>
+      <width>130</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <italic>false</italic>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Số điện thoại *</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="radioButton_Khac">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>300</y>
+      <width>90</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <italic>true</italic>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Khác</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>170</y>
+      <width>120</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <italic>false</italic>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Tên *</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_Email">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>300</y>
+      <width>380</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="echoMode">
+     <enum>QLineEdit::Normal</enum>
+    </property>
+    <property name="placeholderText">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_14">
+    <property name="geometry">
+     <rect>
+      <x>1080</x>
+      <y>440</y>
+      <width>120</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <italic>false</italic>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Năm sinh *</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_16">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>680</y>
+      <width>300</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <italic>true</italic>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Nếu bạn đã có tài khoản, hãy chọn</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="radioButton_Nu">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>300</y>
+      <width>90</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>14</pointsize>
+      <italic>true</italic>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Nữ</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>740</y>
+      <width>300</width>
+      <height>90</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>Pictures/Logo.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1500</width>
+     <height>22</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
