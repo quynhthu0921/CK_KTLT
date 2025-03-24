@@ -1,0 +1,546 @@
+[{
+  "_id": {
+    "$oid": "67dbd2d3952e8092be129e64"
+  },
+  "ten": "Trung",
+  "hovatendem": "Lê Nguyễn Minh",
+  "email": "gnurt169@gmail.com",
+  "gioitinh": "Nam",
+  "matkhau": "mingtrungne",
+  "sodienthoai": "0903768871",
+  "ngaysinh": "16/09/2001",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67dbd38f952e8092be129e65"
+  },
+  "ten": "Kha",
+  "hovatendem": "Phan Tuấn",
+  "email": "khpt23416@st.uel.edu.vn",
+  "gioitinh": "Khác",
+  "matkhau": "phantuankha",
+  "sodienthoai": "0918165452",
+  "ngaysinh": "21/07/2005",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67dbd3dceeddd6169884f667"
+  },
+  "ten": "Thư",
+  "hovatendem": "Trịnh Ngọc Anh",
+  "email": "thutna23416@st.uel.edu.vn",
+  "gioitinh": "Nữ",
+  "matkhau": "anhthuanhthu",
+  "sodienthoai": "0927738823",
+  "ngaysinh": "24/12/2004",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67dbd54d141c3e1bb15356a1"
+  },
+  "ten": "Uyên",
+  "hovatendem": "Nguyễn Thị Đang",
+  "email": "uyendnt23416@st.uel.edu.vn",
+  "gioitinh": "Nữ",
+  "matkhau": "danguyen__",
+  "sodienthoai": "0928837776",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67dd6213ed18dc7dc8799386"
+  },
+  "ten": "Uyên",
+  "hovatendem": "Nguyễn Huỳnh Diệu",
+  "email": "minncindy3@gmail.com",
+  "gioitinh": "Nữ",
+  "matkhau": "090909",
+  "sodienthoai": "0123456789",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67dd636029914c518c2cdc73"
+  },
+  "ten": "Thu",
+  "hovatendem": "Trương Hoàng Lệ",
+  "email": "photocoppythuphuong@gmail.com",
+  "gioitinh": "Nữ",
+  "matkhau": "carrotboy",
+  "sodienthoai": "0919750824",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67dd6a264e2ebcecb7565dd6"
+  },
+  "ten": "Phương",
+  "hovatendem": "Đặng Hà Thu",
+  "email": "phuongdht23416@st.uel.edu.vn",
+  "gioitinh": "Nữ",
+  "matkhau": "hello",
+  "sodienthoai": "0843306506",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df821a510670b6dac7983b"
+  },
+  "ten": "An",
+  "hovatendem": "Huỳnh Văn Tú An",
+  "email": "anhvt23416@st.uel.edu.vn",
+  "gioitinh": "Nữ",
+  "matkhau": "tuan_416",
+  "sodienthoai": "0967776343",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df824b510670b6dac7983c"
+  },
+  "ten": "Anh",
+  "hovatendem": "Nguyễn Ngọc Trâm",
+  "email": "anhnnt23416@st.uel.edu.vn",
+  "gioitinh": "Nữ",
+  "matkhau": "tram_anh",
+  "sodienthoai": "0937723302",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df828a510670b6dac7983d"
+  },
+  "ten": "Anh",
+  "hovatendem": "Nguyễn Thị Hoàng",
+  "email": "anhnth23416@st.uel.edu.vn",
+  "gioitinh": "Nữ",
+  "matkhau": "tepiu2205",
+  "sodienthoai": "0837792275",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df82ca510670b6dac7983e"
+  },
+  "ten": "Ánh",
+  "hovatendem": "Hoàng Ngọc",
+  "email": "anhhn23416@st.uel.edu.vn",
+  "gioitinh": "Nữ",
+  "matkhau": "04082005",
+  "sodienthoai": "084384384",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df82fb510670b6dac7983f"
+  },
+  "ten": "Du",
+  "hovatendem": "Nguyễn Khánh",
+  "email": "dunk23416@st.uel.edu.vn",
+  "gioitinh": "Nữ",
+  "matkhau": "khanhdu",
+  "sodienthoai": "0918738837",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df836b510670b6dac79840"
+  },
+  "ten": "Nhi",
+  "hovatendem": "Nhịng Yến",
+  "email": "nhingyennhi123@gmail.com",
+  "gioitinh": "Nữ",
+  "matkhau": "yennhi0202",
+  "sodienthoai": "0918281923",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df83f9510670b6dac79841"
+  },
+  "ten": "Đức",
+  "hovatendem": "Thái Khương Anh",
+  "email": "ductka23416@st.uel.edu.vn",
+  "gioitinh": "Nam",
+  "matkhau": "noelnoel",
+  "sodienthoai": "0919372828",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df8421510670b6dac79842"
+  },
+  "ten": "Huy",
+  "hovatendem": "Lê Quang",
+  "email": "huyle23416@st.uel.edu.vn",
+  "gioitinh": "Nam",
+  "matkhau": "lequanghuy",
+  "sodienthoai": "0919392029",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df8487510670b6dac79843"
+  },
+  "ten": "Hương",
+  "hovatendem": "Tô Nguyễn Huỳnh",
+  "email": "huongtnh23416@st.uel.edu.vn",
+  "gioitinh": "Nữ",
+  "matkhau": "quynhhuong",
+  "sodienthoai": "0983 456 789",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df84b6510670b6dac79844"
+  },
+  "ten": "Khang",
+  "hovatendem": "Đỗ Phúc",
+  "email": "khangdp23416@st.uel.edu.vn",
+  "gioitinh": "Nam",
+  "matkhau": "02102005khang",
+  "sodienthoai": "0912 345 678",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df8597510670b6dac79845"
+  },
+  "ten": "Ngân",
+  "hovatendem": "Nguyễn Yến",
+  "email": "nganny23416@st.uel.edu.vn",
+  "gioitinh": "Nam",
+  "matkhau": "haithuhieu",
+  "sodienthoai": "0978654321",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df8616510670b6dac79846"
+  },
+  "ten": "Nghi",
+  "hovatendem": "Đoàn Phương",
+  "email": "nghidp23416@st.uel.edu.vn",
+  "gioitinh": "Nữ",
+  "matkhau": "nghidp0807",
+  "sodienthoai": "0901234567",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df86e1510670b6dac79847"
+  },
+  "ten": "Nguyên",
+  "hovatendem": "Trương Trí",
+  "email": "nguyentt23416@st.uel.edu.vn",
+  "gioitinh": "Nam",
+  "matkhau": "nghidp0807",
+  "sodienthoai": "0932987654",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df8729510670b6dac79848"
+  },
+  "ten": "Nhi",
+  "hovatendem": "Trần Thị Yến",
+  "email": "nhitty23416@st.uel.edu.vn",
+  "gioitinh": "Nữ",
+  "matkhau": "tranyennhi",
+  "sodienthoai": "0888123456",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df875e510670b6dac79849"
+  },
+  "ten": "Nhiên",
+  "hovatendem": "Trần Lưu Hoàng",
+  "email": "nhientlh23416@st.uel.edu.vn",
+  "gioitinh": "Nữ",
+  "matkhau": "hoangnhien",
+  "sodienthoai": "0866789012",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df8787510670b6dac7984a"
+  },
+  "ten": "Như",
+  "hovatendem": "Lâm Tâm",
+  "email": "nhult23416@st.uel.edu.vn",
+  "gioitinh": "Nữ",
+  "matkhau": "lamtamnhu0907",
+  "sodienthoai": "0899567890",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df87c5510670b6dac7984b"
+  },
+  "ten": "Quốc",
+  "hovatendem": "Lê Bảo",
+  "email": "quoclb23416@st.uel.edu.vn",
+  "gioitinh": "Nam",
+  "matkhau": "quoclo2504",
+  "sodienthoai": "0945678321",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df87f4510670b6dac7984c"
+  },
+  "ten": "Tài",
+  "hovatendem": "Phạm Trần Thanh",
+  "email": "taiptt23416@st.uel.edu.vn",
+  "gioitinh": "Nam",
+  "matkhau": "04032005",
+  "sodienthoai": "0963210987",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df888a510670b6dac7984d"
+  },
+  "ten": "Thanh",
+  "hovatendem": "Nguyễn Tuấn",
+  "email": "thanhnt23416@st.uel.edu.vn",
+  "gioitinh": "Nữ",
+  "matkhau": "nguyentuanthanh",
+  "sodienthoai": "0921345876",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df88b9510670b6dac7984e"
+  },
+  "ten": "Thảo",
+  "hovatendem": "Đặng Phương",
+  "email": "thaodp23416@st.uel.edu.vn",
+  "gioitinh": "Nữ",
+  "matkhau": "10122005thao",
+  "sodienthoai": "0998765432",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df88ea510670b6dac7984f"
+  },
+  "ten": "Thiện",
+  "hovatendem": "Nguyễn Đức",
+  "email": "thiennd23416@st.uel.edu.vn",
+  "gioitinh": "Nam",
+  "matkhau": "thiennd23416",
+  "sodienthoai": "0702123789",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df8c85510670b6dac79850"
+  },
+  "ten": "Thịnh",
+  "hovatendem": "Lê Phước",
+  "email": "thinhlp23416@st.uel.edu.vn",
+  "gioitinh": "Nam",
+  "matkhau": "thinhlp0309",
+  "sodienthoai": "0799876543",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df8cb2510670b6dac79851"
+  },
+  "ten": "Thuận",
+  "hovatendem": "Đỗ Hải",
+  "email": "thuandh23416@st.uel.edu.vn",
+  "gioitinh": "Nam",
+  "matkhau": "thuan31122005",
+  "sodienthoai": "0833654210",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df8d5f510670b6dac79852"
+  },
+  "ten": "Thúy",
+  "hovatendem": "Vũ Lê Phương",
+  "email": "thuyvlp23416@st.uel.edu.vn",
+  "gioitinh": "Nữ",
+  "matkhau": "vulephuongthuy",
+  "sodienthoai": "0855432109",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df8d81510670b6dac79853"
+  },
+  "ten": "Thư",
+  "hovatendem": "Mai Thế",
+  "email": "thumt23416@st.uel.edu.vn",
+  "gioitinh": "Nam",
+  "matkhau": "thumaithe",
+  "sodienthoai": "0812678543",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df8e41510670b6dac79854"
+  },
+  "ten": "Thư",
+  "hovatendem": "Trương Phạm Quỳnh",
+  "email": "thutpq23416@st.uel.edu.vn",
+  "gioitinh": "Nữ",
+  "matkhau": "quynhthu",
+  "sodienthoai": "0876890234",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df8ead510670b6dac79855"
+  },
+  "ten": "Trân",
+  "hovatendem": "Nguyễn Thị Ngọc",
+  "email": "tranntn23416@st.uel.edu.vn",
+  "gioitinh": "Nữ",
+  "matkhau": "ngoctran2310",
+  "sodienthoai": "0777567890",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df8f15510670b6dac79856"
+  },
+  "ten": "Trinh",
+  "hovatendem": "Trần Thị Mỹ",
+  "email": "trinhttm23416@st.uel.edu.vn",
+  "gioitinh": "Nữ",
+  "matkhau": "27032005trinh",
+  "sodienthoai": "0822789654",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df9184510670b6dac79857"
+  },
+  "ten": "Trọng",
+  "hovatendem": "Lê Bá",
+  "email": "tritk23416@st.uel.edu.vn",
+  "gioitinh": "Nam",
+  "matkhau": "0788234987",
+  "sodienthoai": "0788234987",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df91a2510670b6dac79858"
+  },
+  "ten": "Trọng",
+  "hovatendem": "Nguyễn Tấn",
+  "email": "trongnt23416@st.uel.edu.vn",
+  "gioitinh": "Nam",
+  "matkhau": "0890876210",
+  "sodienthoai": "0890876210",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df91c9510670b6dac79859"
+  },
+  "ten": "Trúc",
+  "hovatendem": "Cao Thị Thanh",
+  "email": "trucctt23416@st.uel.edu.vn",
+  "gioitinh": "Nam",
+  "matkhau": "trucctt0903",
+  "sodienthoai": "0934098765",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df91fb510670b6dac7985a"
+  },
+  "ten": "Trúc",
+  "hovatendem": "Nguyễn Hoàng Thiên",
+  "email": "trucnht23416@st.uel.edu.vn",
+  "gioitinh": "Nữ",
+  "matkhau": "trucnht0208",
+  "sodienthoai": "0955432678",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df922c510670b6dac7985b"
+  },
+  "ten": "Uyên",
+  "hovatendem": "Lê Tố",
+  "email": "uyenlt23416@st.uel.edu.vn",
+  "gioitinh": "Nữ",
+  "matkhau": "touyen26092005",
+  "sodienthoai": "0981789012",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df9273510670b6dac7985c"
+  },
+  "ten": "Uyên",
+  "hovatendem": "Nguyễn Thị Đang",
+  "email": "uyenntd23416@st.uel.edu.vn",
+  "gioitinh": "Nữ",
+  "matkhau": "uyen2905",
+  "sodienthoai": "0919654987",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+},
+{
+  "_id": {
+    "$oid": "67df92a8510670b6dac7985d"
+  },
+  "ten": "Văn",
+  "hovatendem": "Lê Gia",
+  "email": "vanlg23416@st.uel.edu.vn",
+  "gioitinh": "Nam",
+  "matkhau": "giavanle0210",
+  "sodienthoai": "0909876432",
+  "ngaysinh": "01/01/2000",
+  "thanhpho": "TP. Hồ Chí Minh"
+}]
